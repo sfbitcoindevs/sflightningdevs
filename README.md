@@ -1,4 +1,4 @@
-# SF Bitcoin Devs
+# SF Lightning Devs
 
 ## Socratic Reading List Sources
 
