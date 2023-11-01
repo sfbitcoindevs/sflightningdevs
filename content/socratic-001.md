@@ -6,7 +6,7 @@ date = 2023-11-07
 Housekeeping
 ------------
 
-- This meetup is generously sponsored by [Digital Garage](https://dg717.com/) and [Hivemind Ventures](https://hivemind.vc).
+- This meetup is generously sponsored by [Digital Garage](https://dg717.com/), [Hivemind Ventures](https://hivemind.vc), and [CardCoins](https://cardcoins.co).
 - Questions are encouraged, including basic ones!
 - Socratic Seminars are held under the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): share the information you receive, but do not reveal the identity of who said it.
 - For the privacy of other attendees, please refrain from taking photographs of other people without their permission.
