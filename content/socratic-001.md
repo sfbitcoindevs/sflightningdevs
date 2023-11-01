@@ -74,6 +74,7 @@ Noteworthy PRs
  - [Fix tests that expect network minimum feerate to be less than other rates](https://github.com/ACINQ/eclair/pull/2751)
 
  ### [LDK](https://github.com/lightningdevkit/rust-lightning)
+ - [Move the historical bucket tracker to 32 unequal sized buckets](https://github.com/lightningdevkit/rust-lightning/pull/2176)
  - [BOLT 12 Offers message flow](https://github.com/lightningdevkit/rust-lightning/pull/2039)
  - [Monitor updating persister](https://github.com/lightningdevkit/rust-lightning/pull/2359)
  - [BOLT 12 Offers utilities](https://github.com/lightningdevkit/rust-lightning/pull/2578)
