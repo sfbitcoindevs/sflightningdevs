@@ -83,35 +83,26 @@
 <h2 id="noteworthy-prs">Noteworthy PRs</h2>
 <h3 id="core-lightning"><a href="https://github.com/ElementsProject/lightning">Core Lightning</a></h3>
 <ul>
-<li><a href="https://github.com/ElementsProject/lightning/pull/6767">Restore any missing psbt metadata that resource constrained signers strip</a></li>
-<li><a href="https://github.com/ElementsProject/lightning/pull/6786">Simplify use of channel_update</a></li>
-<li><a href="https://github.com/ElementsProject/lightning/pull/6751">Plugin and broadcast cleanups</a></li>
 <li><a href="https://github.com/ElementsProject/lightning/pull/6689">Allow even unknown messages, by registration, and allow sending them</a></li>
 <li><a href="https://github.com/ElementsProject/lightning/pull/6676">addpsbtoutput: New onchain command for PSBT output and splice_out tests</a></li>
-<li><a href="https://github.com/ElementsProject/lightning/pull/6710">runes: Reimplement <code>rate</code> in terms of <code>per</code></a></li>
+<li><a href="https://github.com/ElementsProject/lightning/pull/6833">Fee hysteresis updates</a></li>
+<li><a href="https://github.com/ElementsProject/lightning/pull/6789">Fuzzing-Found BOLT11 crashes</a></li>
 </ul>
 <h3 id="eclair"><a href="https://github.com/ACINQ/eclair/">eclair</a></h3>
 <ul>
 <li><a href="https://github.com/ACINQ/eclair/pull/2750">Ignore disabled edges for routing messages</a></li>
 <li><a href="https://github.com/ACINQ/eclair/pull/2703">Adapt max HTLC amount to balance</a></li>
-<li><a href="https://github.com/ACINQ/eclair/pull/2758">Simplify dual-funded min-depth calculation</a></li>
-<li><a href="https://github.com/ACINQ/eclair/pull/2755">Strip witness of interactive tx parents</a></li>
-<li><a href="https://github.com/ACINQ/eclair/pull/2756">Add metrics on splicing</a></li>
-<li><a href="https://github.com/ACINQ/eclair/pull/2757">Handle splice with local/remote index mismatch</a></li>
 <li><a href="https://github.com/ACINQ/eclair/pull/2739">Poll bitcoind at startup instead of trying only once</a></li>
-<li><a href="https://github.com/ACINQ/eclair/pull/2753">Remove <code>ChannelFeatures</code>-&gt;<code>ChannelType</code> conversion</a></li>
 <li><a href="https://github.com/ACINQ/eclair/pull/2732">Assume widely supported features</a></li>
 <li><a href="https://github.com/ACINQ/eclair/pull/2720">Splice with pending committed htlcs</a></li>
 <li><a href="https://github.com/ACINQ/eclair/pull/2733">Improve startup resource usage</a></li>
 <li><a href="https://github.com/ACINQ/eclair/pull/2727">Allow splicing on non dual-funded channels</a></li>
-<li><a href="https://github.com/ACINQ/eclair/pull/2751">Fix tests that expect network minimum feerate to be less than other rates</a></li>
 </ul>
 <h3 id="ldk"><a href="https://github.com/lightningdevkit/rust-lightning">LDK</a></h3>
 <ul>
 <li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2176">Move the historical bucket tracker to 32 unequal sized buckets</a></li>
 <li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2039">BOLT 12 Offers message flow</a></li>
 <li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2359">Monitor updating persister</a></li>
-<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2578">BOLT 12 Offers utilities</a></li>
 <li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2603">Set a default max_total_routing_fee_msat of 1% + 50sats</a></li>
 <li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2604">Try to overpay the recipient if we fail to find a path at all and limit overpay #2604</a></li>
 <li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2605">Use correct to_remote script in counterparty commitments</a></li>
@@ -127,9 +118,7 @@
 <li><a href="https://github.com/lightningnetwork/lnd/pull/7965">sweeper: relax anchor sweeping when there's no deadline pressure</a></li>
 <li><a href="https://github.com/lightningnetwork/lnd/pull/7889">tlv: fuzz test encoding/decoding</a></li>
 <li><a href="https://github.com/lightningnetwork/lnd/pull/7925">funding: wait for coinbase maturity before sending channel_ready</a></li>
-<li><a href="https://github.com/lightningnetwork/lnd/pull/8037">lnwallet+rpcserver: fix weight calculation for taproot channels</a></li>
 <li><a href="https://github.com/lightningnetwork/lnd/pull/8041">peer: launch persistent peer pruning in background goroutine</a></li>
-<li><a href="https://github.com/lightningnetwork/lnd/pull/8031">chanacceptor+lnrpc: add simple taproot channel support</a></li>
 </ul>
 
 

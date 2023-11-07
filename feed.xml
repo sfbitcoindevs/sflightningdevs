@@ -52,35 +52,26 @@
 &lt;h2 id=&quot;noteworthy-prs&quot;&gt;Noteworthy PRs&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;core-lightning&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&quot;&gt;Core Lightning&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;6767&quot;&gt;Restore any missing psbt metadata that resource constrained signers strip&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;6786&quot;&gt;Simplify use of channel_update&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;6751&quot;&gt;Plugin and broadcast cleanups&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;6689&quot;&gt;Allow even unknown messages, by registration, and allow sending them&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;6676&quot;&gt;addpsbtoutput: New onchain command for PSBT output and splice_out tests&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;6710&quot;&gt;runes: Reimplement &lt;code&gt;rate&lt;&#x2F;code&gt; in terms of &lt;code&gt;per&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;6833&quot;&gt;Fee hysteresis updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;6789&quot;&gt;Fuzzing-Found BOLT11 crashes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;eclair&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;&quot;&gt;eclair&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2750&quot;&gt;Ignore disabled edges for routing messages&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2703&quot;&gt;Adapt max HTLC amount to balance&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2758&quot;&gt;Simplify dual-funded min-depth calculation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2755&quot;&gt;Strip witness of interactive tx parents&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2756&quot;&gt;Add metrics on splicing&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2757&quot;&gt;Handle splice with local&#x2F;remote index mismatch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2739&quot;&gt;Poll bitcoind at startup instead of trying only once&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2753&quot;&gt;Remove &lt;code&gt;ChannelFeatures&lt;&#x2F;code&gt;-&amp;gt;&lt;code&gt;ChannelType&lt;&#x2F;code&gt; conversion&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2732&quot;&gt;Assume widely supported features&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2720&quot;&gt;Splice with pending committed htlcs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2733&quot;&gt;Improve startup resource usage&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2727&quot;&gt;Allow splicing on non dual-funded channels&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2751&quot;&gt;Fix tests that expect network minimum feerate to be less than other rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;ldk&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&quot;&gt;LDK&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;2176&quot;&gt;Move the historical bucket tracker to 32 unequal sized buckets&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;2039&quot;&gt;BOLT 12 Offers message flow&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;2359&quot;&gt;Monitor updating persister&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;2578&quot;&gt;BOLT 12 Offers utilities&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;2603&quot;&gt;Set a default max_total_routing_fee_msat of 1% + 50sats&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;2604&quot;&gt;Try to overpay the recipient if we fail to find a path at all and limit overpay #2604&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;2605&quot;&gt;Use correct to_remote script in counterparty commitments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -96,9 +87,7 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;7965&quot;&gt;sweeper: relax anchor sweeping when there&#x27;s no deadline pressure&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;7889&quot;&gt;tlv: fuzz test encoding&#x2F;decoding&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;7925&quot;&gt;funding: wait for coinbase maturity before sending channel_ready&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;8037&quot;&gt;lnwallet+rpcserver: fix weight calculation for taproot channels&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;8041&quot;&gt;peer: launch persistent peer pruning in background goroutine&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;8031&quot;&gt;chanacceptor+lnrpc: add simple taproot channel support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
 	</entry>
