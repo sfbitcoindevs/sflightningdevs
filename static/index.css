@@ -60,3 +60,7 @@ header > a {
   font-family: 'Source Code Pro';
   src: url('/SourceCodePro-Regular.ttf.woff2') format('woff2');
 }
+
+a {
+  cursor: url('https://fav.farm/⚡️') 15 15, auto;
+}
