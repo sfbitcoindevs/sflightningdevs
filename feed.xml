@@ -51,6 +51,7 @@
 &lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;releases&#x2F;tag&#x2F;v23.11&quot;&gt;Core Lightning v23.11&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;releases&#x2F;tag&#x2F;v0.0.119&quot;&gt;LDK v0.0.119&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;ldk-node&#x2F;releases&#x2F;tag&#x2F;v0.2.0&quot;&gt;LDK Node v0.2.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;blob&#x2F;v0.17.3-beta.rc1&#x2F;docs&#x2F;release-notes&#x2F;release-notes-0.17.3.md&quot;&gt;LND v0.17.3-beta.rc1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;fedimint&#x2F;fedimint&#x2F;releases&#x2F;tag&#x2F;v0.2.0&quot;&gt;Fedimint v0.2.0 released&lt;&#x2F;a&gt; including &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;fedimint&#x2F;fedimint&#x2F;pull&#x2F;3816&quot;&gt;private lightning payments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
