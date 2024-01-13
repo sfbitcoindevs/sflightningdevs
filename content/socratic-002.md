@@ -52,6 +52,7 @@ Miscellaneous
 Releases
 --------
 - [Core Lightning v23.11](https://github.com/ElementsProject/lightning/releases/tag/v23.11)
+- [LDK v0.0.119](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.119)
 - [LDK Node v0.2.0](https://github.com/lightningdevkit/ldk-node/releases/tag/v0.2.0)
 - [LND v0.17.3-beta.rc1](https://github.com/lightningnetwork/lnd/blob/v0.17.3-beta.rc1/docs/release-notes/release-notes-0.17.3.md)
 - [Fedimint v0.2.0 released](https://github.com/fedimint/fedimint/releases/tag/v0.2.0) including [private lightning payments](https://github.com/fedimint/fedimint/pull/3816)
