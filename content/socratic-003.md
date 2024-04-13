@@ -31,6 +31,7 @@ News
 
 - [Coinbase selects Lightspark for Lightning](https://www.lightspark.com/news/coinbase-selects-lightspark)
 - [Braiins releases beta Lightning payouts](https://twitter.com/BraiinsMining/status/1760319741560856983)
+- [ACINQ releases phoenixd](https://phoenix.acinq.co/server)
 
 
 Delving Bitcoin
@@ -46,6 +47,8 @@ Delving Bitcoin
 Miscellaneous
 -------------
 
+- [Define blip-0032, DNSSEC proof querying over onion messages](https://github.com/lightning/blips/pull/32)
+- [Define a mechanism for looking up an offer from a user/domain pair](https://github.com/lightning/bolts/pull/1136)
 - [Hedgehog: a protocol for improved layer two bitcoin payments](https://github.com/supertestnet/hedgehog)
 
 
