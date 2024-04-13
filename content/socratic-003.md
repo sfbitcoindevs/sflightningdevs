@@ -1,7 +1,6 @@
 +++
 title = "Socratic Seminar 3"
 date = 2024-04-16
-draft = true
 +++
 
 Housekeeping
@@ -31,6 +30,7 @@ News
 ----
 
 - [Coinbase selects Lightspark for Lightning](https://www.lightspark.com/news/coinbase-selects-lightspark)
+- [Braiins releases beta Lightning payouts](https://twitter.com/BraiinsMining/status/1760319741560856983)
 
 
 Delving Bitcoin
@@ -46,7 +46,7 @@ Delving Bitcoin
 Miscellaneous
 -------------
 
-- [Braiins releases beta Lightning payouts](https://twitter.com/BraiinsMining/status/1760319741560856983)
+- [Hedgehog: a protocol for improved layer two bitcoin payments](https://github.com/supertestnet/hedgehog)
 
 
 Releases
