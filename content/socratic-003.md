@@ -57,6 +57,7 @@ Releases
 - [LDK v0.0.120](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.120)
 - [LND v0.17.4-beta](https://github.com/lightningnetwork/lnd/blob/v0.17.4-beta/docs/release-notes/release-notes-0.17.4.md)
 - [VLS v0.11.0](https://gitlab.com/lightning-signer/validating-lightning-signer/-/releases/v0.11.0)
+- [Fedimint Lightning Gateway v0.3.0](https://github.com/fedimint/fedimint/releases/tag/v0.3.0)
 
 
 Noteworthy PRs
