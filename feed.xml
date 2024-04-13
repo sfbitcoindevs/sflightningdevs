@@ -4,8 +4,89 @@
 	<link href="https://www.sflightningdevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.sflightningdevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2024-01-16T00:00:00+00:00</updated>
+	<updated>2024-04-16T00:00:00+00:00</updated>
 	<id>https://www.sflightningdevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 3</title>
+		<published>2024-04-16T00:00:00+00:00</published>
+		<updated>2024-04-16T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.sflightningdevs.org/socratic-003/" type="text/html"/>
+		<id>https://www.sflightningdevs.org/socratic-003/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;hivemind.vc&quot;&gt;Hivemind Ventures&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;cardcoins.co&quot;&gt;CardCoins&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers January 13th to April 12th.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;presentation&quot;&gt;Presentation&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;moneyball&quot;&gt;Steve Lee&lt;&#x2F;a&gt; - BOLT12 makes Bitcoin digital cash&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;lightning&quot;&gt;Mempool.space Lightning Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;Clark Moody Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.lightspark.com&#x2F;news&#x2F;coinbase-selects-lightspark&quot;&gt;Coinbase selects Lightspark for Lightning&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;BraiinsMining&#x2F;status&#x2F;1760319741560856983&quot;&gt;Braiins releases beta Lightning payouts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;delving-bitcoin&quot;&gt;Delving Bitcoin&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;sighash-outputdeltabounds&#x2F;504&quot;&gt;&lt;code&gt;sighash_outputdeltabounds&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;payjoin-in-potentiam-externally-fund-an-lsp-channel-open-with-one-transaction&#x2F;749&quot;&gt;Payjoin-in-Potentiam: Externally fund an LSP channel open with one transaction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;ecash-and-lightning-via-zkcp&#x2F;586&quot;&gt;Ecash and lightning via ZKCP&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;liquidity-provider-utxo-management&#x2F;600&quot;&gt;Liquidity provider utxo management&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;dsl-for-experimenting-with-contracts&#x2F;748&quot;&gt;DSL for experimenting with contracts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;miscellaneous&quot;&gt;Miscellaneous&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;supertestnet&#x2F;hedgehog&quot;&gt;Hedgehog: a protocol for improved layer two bitcoin payments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;releases&#x2F;tag&#x2F;v24.02&quot;&gt;Core Lightning v24.02&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;blob&#x2F;master&#x2F;docs&#x2F;release-notes&#x2F;eclair-v0.10.0.md&quot;&gt;Eclair v0.10.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;releases&#x2F;tag&#x2F;v0.0.120&quot;&gt;LDK v0.0.120&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;blob&#x2F;v0.17.4-beta&#x2F;docs&#x2F;release-notes&#x2F;release-notes-0.17.4.md&quot;&gt;LND v0.17.4-beta&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gitlab.com&#x2F;lightning-signer&#x2F;validating-lightning-signer&#x2F;-&#x2F;releases&#x2F;v0.11.0&quot;&gt;VLS v0.11.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;noteworthy-prs&quot;&gt;Noteworthy PRs&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;core-lightning&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&quot;&gt;Core Lightning&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;6785&quot;&gt;Anchor-style channels become the default on Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;7094&quot;&gt;Removal of EOL deprecations for 23.05&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;eclair&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;&quot;&gt;eclair&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2816&quot;&gt;Add configurable threshold on maximum anchor fee&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2818&quot;&gt;Abandon transactions whose ancestors have been double spent&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2829&quot;&gt;Allow plugins to set a dual funding contribution&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;ldk&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&quot;&gt;LDK&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;2419&quot;&gt;Interactive transaction construction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;2442&quot;&gt;Include pending HTLC&#x27;s in ChannelDetails&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;2756&quot;&gt;Serialize Trampoline payloads in outbound onions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;2770&quot;&gt;Preliminary refactoring &amp;amp; structure for dual-funded channels&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;2856&quot;&gt;Route blinding: add min_final_cltv_delta to aggregated CLTV delta&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;2916&quot;&gt;Adds Into&lt;PaymentHash&gt; for PaymentPreimage&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;2935&quot;&gt;Support keysend to blinded paths&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;lnd&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&quot;&gt;lnd&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;8310&quot;&gt;Support utilizing Environment Variables in lnd.conf for rpcuser and rpcpass fields&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;8338&quot;&gt;lnwire: add new closing_complete and closing_sig messages&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;8378&quot;&gt;Unify coin selection, allow coin selection for PSBT with pre-defined inputs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;8418&quot;&gt;chainfee: introduce filterManager and use it for fee floor&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;8499&quot;&gt;Upgrade new taproot TLVs to use tlv.OptionalRecordT&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 2</title>
 		<published>2024-01-16T00:00:00+00:00</published>

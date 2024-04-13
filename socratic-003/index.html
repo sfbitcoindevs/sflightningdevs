@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      SF Lightning Devs | Socratic Seminar 3
+    </title>
+    <meta name="description" content="Website for the San Francisco Lightning Developer Meetup.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="SF Lightning Devs">
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
+    <link href="/index.css" rel="stylesheet" type="text/css">
+    
+    <style>
+      header {
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 1.75rem; /* Adjust the font size as needed */
+      }
+
+      nav a {
+        display: inline-block; /* Allow links to wrap to the next line as a whole */
+        margin-right: 10px; /* Add some spacing between links */
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">SF Lightning Devs</a></h1>
+      <nav>
+        <a href="https://www.meetup.com/SF-Lightning-Devs/" target="_blank">Meetup</a>
+        <a href="https://twitter.com/SFLightningDevs" target="_blank">Twitter</a>
+        <a href="https://github.com/sfbitcoindevs/sflightningdevs" target="_blank">GitHub</a>
+        <a href="/feed.xml">RSS</a>
+        <a href="https://sfbitcoindevs.org" target="_blank">SF BitDevs</a>
+      </nav>
+    </header>
+    <hr>
+    <article>
+      
+<h1>Socratic Seminar 3</h1>
+<p><strong>2024-04-16</strong></p>
+<h2 id="housekeeping">Housekeeping</h2>
+<ul>
+<li>This meetup is generously sponsored by <a href="https://dg717.com/">Digital Garage</a>, <a href="https://hivemind.vc">Hivemind Ventures</a>, and <a href="https://cardcoins.co">CardCoins</a>.</li>
+<li>Questions are encouraged, including basic ones!</li>
+<li>Socratic Seminars are held under the <a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a>: share the information you receive, but do not reveal the identity of who said it.</li>
+<li>For the privacy of other attendees, please refrain from taking photographs of other people without their permission.</li>
+<li>Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.</li>
+<li>The reading list covers January 13th to April 12th.</li>
+</ul>
+<h2 id="presentation">Presentation</h2>
+<ul>
+<li><a href="https://twitter.com/moneyball">Steve Lee</a> - BOLT12 makes Bitcoin digital cash</li>
+</ul>
+<h2 id="chain-weather-report">Chain Weather Report</h2>
+<ul>
+<li><a href="https://mempool.space/lightning">Mempool.space Lightning Dashboard</a></li>
+<li><a href="https://bitcoin.clarkmoody.com/dashboard/">Clark Moody Dashboard</a></li>
+</ul>
+<h2 id="news">News</h2>
+<ul>
+<li><a href="https://www.lightspark.com/news/coinbase-selects-lightspark">Coinbase selects Lightspark for Lightning</a></li>
+<li><a href="https://twitter.com/BraiinsMining/status/1760319741560856983">Braiins releases beta Lightning payouts</a></li>
+</ul>
+<h2 id="delving-bitcoin">Delving Bitcoin</h2>
+<ul>
+<li><a href="https://delvingbitcoin.org/t/sighash-outputdeltabounds/504"><code>sighash_outputdeltabounds</code></a></li>
+<li><a href="https://delvingbitcoin.org/t/payjoin-in-potentiam-externally-fund-an-lsp-channel-open-with-one-transaction/749">Payjoin-in-Potentiam: Externally fund an LSP channel open with one transaction</a></li>
+<li><a href="https://delvingbitcoin.org/t/ecash-and-lightning-via-zkcp/586">Ecash and lightning via ZKCP</a></li>
+<li><a href="https://delvingbitcoin.org/t/liquidity-provider-utxo-management/600">Liquidity provider utxo management</a></li>
+<li><a href="https://delvingbitcoin.org/t/dsl-for-experimenting-with-contracts/748">DSL for experimenting with contracts</a></li>
+</ul>
+<h2 id="miscellaneous">Miscellaneous</h2>
+<ul>
+<li><a href="https://github.com/supertestnet/hedgehog">Hedgehog: a protocol for improved layer two bitcoin payments</a></li>
+</ul>
+<h2 id="releases">Releases</h2>
+<ul>
+<li><a href="https://github.com/ElementsProject/lightning/releases/tag/v24.02">Core Lightning v24.02</a></li>
+<li><a href="https://github.com/ACINQ/eclair/blob/master/docs/release-notes/eclair-v0.10.0.md">Eclair v0.10.0</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.120">LDK v0.0.120</a></li>
+<li><a href="https://github.com/lightningnetwork/lnd/blob/v0.17.4-beta/docs/release-notes/release-notes-0.17.4.md">LND v0.17.4-beta</a></li>
+<li><a href="https://gitlab.com/lightning-signer/validating-lightning-signer/-/releases/v0.11.0">VLS v0.11.0</a></li>
+</ul>
+<h2 id="noteworthy-prs">Noteworthy PRs</h2>
+<h3 id="core-lightning"><a href="https://github.com/ElementsProject/lightning">Core Lightning</a></h3>
+<ul>
+<li><a href="https://github.com/ElementsProject/lightning/pull/6785">Anchor-style channels become the default on Bitcoin</a></li>
+<li><a href="https://github.com/ElementsProject/lightning/pull/7094">Removal of EOL deprecations for 23.05</a></li>
+</ul>
+<h3 id="eclair"><a href="https://github.com/ACINQ/eclair/">eclair</a></h3>
+<ul>
+<li><a href="https://github.com/ACINQ/eclair/pull/2816">Add configurable threshold on maximum anchor fee</a></li>
+<li><a href="https://github.com/ACINQ/eclair/pull/2818">Abandon transactions whose ancestors have been double spent</a></li>
+<li><a href="https://github.com/ACINQ/eclair/pull/2829">Allow plugins to set a dual funding contribution</a></li>
+</ul>
+<h3 id="ldk"><a href="https://github.com/lightningdevkit/rust-lightning">LDK</a></h3>
+<ul>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2419">Interactive transaction construction</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2442">Include pending HTLC's in ChannelDetails</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2756">Serialize Trampoline payloads in outbound onions</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2770">Preliminary refactoring &amp; structure for dual-funded channels</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2856">Route blinding: add min_final_cltv_delta to aggregated CLTV delta</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2916">Adds Into<PaymentHash> for PaymentPreimage</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2935">Support keysend to blinded paths</a></li>
+</ul>
+<h3 id="lnd"><a href="https://github.com/lightningnetwork/lnd">lnd</a></h3>
+<ul>
+<li><a href="https://github.com/lightningnetwork/lnd/pull/8310">Support utilizing Environment Variables in lnd.conf for rpcuser and rpcpass fields</a></li>
+<li><a href="https://github.com/lightningnetwork/lnd/pull/8338">lnwire: add new closing_complete and closing_sig messages</a></li>
+<li><a href="https://github.com/lightningnetwork/lnd/pull/8378">Unify coin selection, allow coin selection for PSBT with pre-defined inputs</a></li>
+<li><a href="https://github.com/lightningnetwork/lnd/pull/8418">chainfee: introduce filterManager and use it for fee floor</a></li>
+<li><a href="https://github.com/lightningnetwork/lnd/pull/8499">Upgrade new taproot TLVs to use tlv.OptionalRecordT</a></li>
+</ul>
+
+
+    </article>
+    <hr>
+    <footer>
+      <span>
+        Sponsored by <a href="https://www.garage.co.jp/en/">Digital Garage</a>, <a href="https://hivemind.vc">Hivemind Ventures</a>, and <a href="https://cardcoins.co">CardCoins</a>.
+      </span>
+    </footer>
+  </body>
+</html>
