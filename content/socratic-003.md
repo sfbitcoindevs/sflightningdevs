@@ -49,6 +49,8 @@ Miscellaneous
 
 - [Human-readable names via DNS](https://twitter.com/moneyball/status/1777457863247700385)
 - [Hedgehog: a protocol for improved layer two bitcoin payments](https://github.com/supertestnet/hedgehog)
+- [btcd block stalling bug](https://github.com/btcsuite/btcd/pull/2122)
+- [Block-stalling issue in Core prior to v22.0](https://delvingbitcoin.org/t/block-stalling-issue-in-core-prior-to-v22-0/499/1)
 
 
 Releases
