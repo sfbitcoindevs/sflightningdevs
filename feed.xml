@@ -48,6 +48,8 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;moneyball&#x2F;status&#x2F;1777457863247700385&quot;&gt;Human-readable names via DNS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;supertestnet&#x2F;hedgehog&quot;&gt;Hedgehog: a protocol for improved layer two bitcoin payments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;btcsuite&#x2F;btcd&#x2F;pull&#x2F;2122&quot;&gt;btcd block stalling bug&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;block-stalling-issue-in-core-prior-to-v22-0&#x2F;499&#x2F;1&quot;&gt;Block-stalling issue in Core prior to v22.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
 &lt;ul&gt;
