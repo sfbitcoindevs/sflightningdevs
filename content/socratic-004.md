@@ -31,6 +31,8 @@ News
 
 - [ACINQ announces that Phoenix will be removed from US app stores on May 3rd](https://twitter.com/PhoenixWallet/status/1783878658014249027)
 - [Strike is exploring BOLT12 and LDK](https://github.com/LN-Zap/bolt12-playground)
+- [Samourai wallet founders arrested](https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering)
+- [Wasabi blocks US citizens and will shut down coordination services](https://blog.wasabiwallet.io/zksnacks-is-discontinuing-its-coinjoin-coordination-service-1st-of-june/)
 
 
 Discussion
@@ -38,7 +40,8 @@ Discussion
 
 #### Tweets & Blogs
 
-- [Roasbeef makes a mainnet asset keysend payment w/ Taproot Asset channels!](https://twitter.com/roasbeef/status/1786043468164337951)
+- [Roasbeef makes a mainnet asset keysend payment w/ Taproot Asset channels](https://twitter.com/roasbeef/status/1786043468164337951)
+- [1 week later, Roasbeef makes a mainnet multi-hop asset payment w/ Taproot Asset channels](https://twitter.com/roasbeef/status/1788624974728790471)
 
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 
@@ -49,6 +52,9 @@ Miscellaneous
 -------------
 
 - [Two WIP Ark implementations are now public](https://github.com/ark-network)
+ - [clArk is covenant-less and relies on pre-signed tx](https://github.com/ark-network/clArk)
+ - [ark relies on covenants and is currently using Liquid](https://github.com/ark-network/ark)
+ - [Ark vs clArk explainer](https://arkdev.info/docs/learn/clark)
 
 
 Releases
@@ -56,7 +62,7 @@ Releases
 
 - [LDK v0.0.123](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.123)
 - [LND v0.17.5-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.17.5-beta)
-- [LND v0.18.0-beta Release Candidate 1](https://github.com/lightningnetwork/lnd/discussions/8709)
+- [LND v0.18.0-beta Release Candidates](https://github.com/lightningnetwork/lnd/discussions/8709)
 
 
 Noteworthy PRs
