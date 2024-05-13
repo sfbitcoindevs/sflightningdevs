@@ -17,6 +17,7 @@ Housekeeping
 Presentation
 ------------
  - [Ken Sedgwick](https://twitter.com/ksedgwic) - [VLS](https://vls.tech/) demo
+ - [Valentine Wallace](https://twitter.com/vallywal) - Async Payments
 
 
 Chain Weather Report
