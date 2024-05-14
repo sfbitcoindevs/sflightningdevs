@@ -43,6 +43,7 @@ Discussion
 
 - [Roasbeef makes a mainnet asset keysend payment w/ Taproot Asset channels](https://twitter.com/roasbeef/status/1786043468164337951)
 - [1 week later, Roasbeef makes a mainnet multi-hop asset payment w/ Taproot Asset channels](https://twitter.com/roasbeef/status/1788624974728790471)
+- [Lopp: Griefing Bitcoin's Testnet](https://blog.lopp.net/griefing-bitcoin-testnet/)
 
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 
