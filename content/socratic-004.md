@@ -16,7 +16,7 @@ Housekeeping
 
 Presentation
 ------------
- - [Ken Sedgwick](https://twitter.com/ksedgwic) - [VLS](https://vls.tech/) demo
+ - [Ken Sedgwick](https://twitter.com/ksedgwic) - [VLS](https://vls.tech/) demo [[presentation]](https://gitlab.com/lightning-signer/presentations/-/blob/main/2024-demo-signer/README.md)
  - [Valentine Wallace](https://twitter.com/vallywal) - Async Payments
 
 
