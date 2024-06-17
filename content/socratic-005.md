@@ -20,18 +20,6 @@ Chain Weather Report
 - [Mempool.space Lightning Dashboard](https://mempool.space/lightning)
 - [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
 
-
-News
-----
-
-
-Discussion
-----------
-
-#### Tweets & Blogs
-
-
-
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 
 - [Stable Channels - peer-to-peer dollar balances on Lightning](https://delvingbitcoin.org/t/stable-channels-peer-to-peer-dollar-balances-on-lightning/875)
