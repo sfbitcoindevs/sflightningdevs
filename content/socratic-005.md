@@ -68,8 +68,8 @@ Noteworthy PRs
 ### [lnd](https://github.com/lightningnetwork/lnd)
 - [Add more RPCs for scid aliases](https://github.com/lightningnetwork/lnd/pull/8509)
 - [routing: cancelable payment loop](https://github.com/lightningnetwork/lnd/pull/8734)
-- [rpc+htlcswitch: add HTLC transformation capabilities to the interceptor]()
-- [[3/5]: multi: add new AuxFundingController for custom external funding flows](https://github.com/lightningnetwork/lnd/pull/8622)
+- [rpc+htlcswitch: add HTLC transformation capabilities to the interceptor](https://github.com/lightningnetwork/lnd/issues/8619)
+- [3/5: multi: add new AuxFundingController for custom external funding flows](https://github.com/lightningnetwork/lnd/pull/8622)
 
 ### [fedimint](https://github.com/fedimint/fedimint/pull/5391)
 - [split: Support split partial invoice payments](https://github.com/fedimint/fedimint/pull/5391)
