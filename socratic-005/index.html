@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      SF Lightning Devs | Socratic Seminar 5
+    </title>
+    <meta name="description" content="Website for the San Francisco Lightning Developer Meetup.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="SF Lightning Devs">
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
+    <link href="/index.css" rel="stylesheet" type="text/css">
+    
+    <style>
+      header {
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 1.75rem; /* Adjust the font size as needed */
+      }
+
+      nav a {
+        display: inline-block; /* Allow links to wrap to the next line as a whole */
+        margin-right: 10px; /* Add some spacing between links */
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">SF Lightning Devs</a></h1>
+      <nav>
+        <a href="https://www.meetup.com/SF-Lightning-Devs/" target="_blank">Meetup</a>
+        <a href="https://twitter.com/SFLightningDevs" target="_blank">Twitter</a>
+        <a href="https://github.com/sfbitcoindevs/sflightningdevs" target="_blank">GitHub</a>
+        <a href="/feed.xml">RSS</a>
+        <a href="https://sfbitcoindevs.org" target="_blank">SF BitDevs</a>
+      </nav>
+    </header>
+    <hr>
+    <article>
+      
+<h1>Socratic Seminar 5</h1>
+<p><strong>2024-06-17</strong></p>
+<h2 id="housekeeping">Housekeeping</h2>
+<ul>
+<li>This meetup is generously sponsored by <a href="https://dg717.com/">Digital Garage</a> and <a href="https://hivemind.vc">Hivemind Ventures</a>.</li>
+<li>Questions are encouraged, including basic ones!</li>
+<li>Socratic Seminars are held under the <a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a>: share the information you receive, but do not reveal the identity of who said it.</li>
+<li>For the privacy of other attendees, please refrain from taking photographs of other people without their permission.</li>
+<li>Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.</li>
+<li>The reading list covers April 13th to May 11th.</li>
+</ul>
+<h2 id="chain-weather-report">Chain Weather Report</h2>
+<ul>
+<li><a href="https://mempool.space/lightning">Mempool.space Lightning Dashboard</a></li>
+<li><a href="https://bitcoin.clarkmoody.com/dashboard/">Clark Moody Dashboard</a></li>
+</ul>
+<h4 id="delving-bitcoin"><a href="https://delvingbitcoin.org/">Delving Bitcoin</a></h4>
+<ul>
+<li><a href="https://delvingbitcoin.org/t/stable-channels-peer-to-peer-dollar-balances-on-lightning/875">Stable Channels - peer-to-peer dollar balances on Lightning</a></li>
+<li><a href="https://delvingbitcoin.org/t/upgrading-existing-lightning-channels/881">Upgrading Existing Lightning Channels</a></li>
+</ul>
+<h2 id="miscellaneous">Miscellaneous</h2>
+<ul>
+<li><a href="https://x.com/bergealex4/status/1786933357575606594">Christian Decker - SIGHASH_NOINPUT: A History</a></li>
+<li><a href="https://eprint.iacr.org/2024/826">Securing Lightning Channels against Rational Miners</a></li>
+<li><a href="https://njump.me/nevent1qqs8sz359u7ysd8hw39v99hlxl5zs7mzsrrw5rwpsctm0ufart2g0ngpp4mhxue69uhkummn9ekx7mqppamhxue69uhkummnw3ezumt0d5q3gamnwvaz7tmwdaehgu3wdau8gu3wv3jhvq3qqtvl2em0llpnnllffhat8zltugwwz97x79gfmxfz4qk52n6zpk3qn2uecg">OCEAN now supports BOLT12 payouts</a>
+<ul>
+<li><a href="https://ocean.xyz/docs/lightning">Documentation</a></li>
+</ul>
+</li>
+<li><a href="https://brqgoo.medium.com/introducing-ark-v2-2e7ab378e87b">Ark v2</a></li>
+<li><a href="https://arxiv.org/abs/2405.12087">Channel Balance Interpolation in the Lightning Network via Machine Learning</a></li>
+</ul>
+<h2 id="releases">Releases</h2>
+<ul>
+<li><a href="https://github.com/lightningnetwork/lnd/releases/tag/v0.18.0-beta">LND v0.18.0-beta</a></li>
+</ul>
+<h2 id="noteworthy-prs">Noteworthy PRs</h2>
+<h3 id="core-lightning"><a href="https://github.com/ElementsProject/lightning">Core Lightning</a></h3>
+<ul>
+<li><a href="https://github.com/ElementsProject/lightning/pull/7212">offers: Update to include sciddir_or_pubkey, for introduction point in blinded path.</a></li>
+<li><a href="https://github.com/ElementsProject/lightning/pull/7086">BOLT catchup, including dual funding!</a></li>
+<li><a href="https://github.com/ElementsProject/lightning/pull/7252">Ignore --ignore-fee-rates on mutual close, don't massively overpay with LDK nodes</a></li>
+</ul>
+<h3 id="eclair"><a href="https://github.com/ACINQ/eclair/">eclair</a></h3>
+<ul>
+<li><a href="https://github.com/ACINQ/eclair/pull/2858">Unwrap blinded routes that start at our node</a></li>
+<li><a href="https://github.com/ACINQ/eclair/pull/2845">Add payCommitTxFees flag to LocalParams</a></li>
+<li><a href="https://github.com/ACINQ/eclair/pull/2867">Add EncodedNodeId for mobile wallets</a></li>
+<li><a href="https://github.com/ACINQ/eclair/pull/2854">Accept onion failure without a channel_update</a></li>
+<li><a href="https://github.com/ACINQ/eclair/pull/2859">Use resolved paths in BlindedHop</a></li>
+</ul>
+<h3 id="ldk"><a href="https://github.com/lightningdevkit/rust-lightning">LDK</a></h3>
+<ul>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3006">Trampoline Onion Deserialization</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2996">Allow responding asynchronously to OnionMessage</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3082">BOLT 12 static invoice encoding and building</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3098">Parse v2 gossip</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3011">Compact blinded path creation</a>
+<ul>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3080">Optional compact blinded path creation</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2889">Allow for user-specified error message during force close channel</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3078">Asynchronous Bolt12Invoice payment</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3037">Force-close channels if their feerate gets stale without any update </a></li>
+</ul>
+<h3 id="lnd"><a href="https://github.com/lightningnetwork/lnd">lnd</a></h3>
+<ul>
+<li><a href="https://github.com/lightningnetwork/lnd/pull/8509">Add more RPCs for scid aliases</a></li>
+<li><a href="https://github.com/lightningnetwork/lnd/pull/8734">routing: cancelable payment loop</a></li>
+<li><a href="https://github.com/lightningnetwork/lnd/issues/8619">rpc+htlcswitch: add HTLC transformation capabilities to the interceptor</a></li>
+<li><a href="https://github.com/lightningnetwork/lnd/pull/8622">3/5: multi: add new AuxFundingController for custom external funding flows</a></li>
+</ul>
+<h3 id="fedimint"><a href="https://github.com/fedimint/fedimint/pull/5391">fedimint</a></h3>
+<ul>
+<li><a href="https://github.com/fedimint/fedimint/pull/5391">split: Support split partial invoice payments</a></li>
+</ul>
+<h3 id="bips-bolts-blips">BIPs/BOLTS/BLIPs</h3>
+<ul>
+<li><a href="https://github.com/bitcoin/bips/pull/1541">BIP431: Opt In Topologically Restricted Until Confirmation Transactions For More Robust Fee-bumping</a></li>
+<li><a href="https://github.com/lightning/blips/pull/32">Define blip-0032, DNSSEC proof querying over onion messages</a></li>
+</ul>
+
+
+    </article>
+    <hr>
+    <footer>
+      <span>
+        Sponsored by <a href="https://www.garage.co.jp/en/">Digital Garage</a>, <a href="https://hivemind.vc">Hivemind Ventures</a>, and <a href="https://cardcoins.co">CardCoins</a>.
+      </span>
+    </footer>
+  </body>
+</html>
