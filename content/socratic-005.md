@@ -20,6 +20,14 @@ Chain Weather Report
 - [Mempool.space Lightning Dashboard](https://mempool.space/lightning)
 - [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
 
+
+News
+----
+- [Introducing Ark Labs](https://blog.arklabs.to/introducing-ark-labs-a-new-venture-to-bring-seamless-and-scalable-payments-to-bitcoin-811388c0001b)
+
+
+Discussion
+----------
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 
 - [Stable Channels - peer-to-peer dollar balances on Lightning](https://delvingbitcoin.org/t/stable-channels-peer-to-peer-dollar-balances-on-lightning/875)
