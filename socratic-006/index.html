@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      SF Lightning Devs | Socratic Seminar 6
+    </title>
+    <meta name="description" content="Website for the San Francisco Lightning Developer Meetup.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="SF Lightning Devs">
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
+    <link href="/index.css" rel="stylesheet" type="text/css">
+    
+    <style>
+      header {
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 1.75rem; /* Adjust the font size as needed */
+      }
+
+      nav a {
+        display: inline-block; /* Allow links to wrap to the next line as a whole */
+        margin-right: 10px; /* Add some spacing between links */
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">SF Lightning Devs</a></h1>
+      <nav>
+        <a href="https://www.meetup.com/SF-Lightning-Devs/" target="_blank">Meetup</a>
+        <a href="https://twitter.com/SFLightningDevs" target="_blank">Twitter</a>
+        <a href="https://github.com/sfbitcoindevs/sflightningdevs" target="_blank">GitHub</a>
+        <a href="/feed.xml">RSS</a>
+        <a href="https://sfbitcoindevs.org" target="_blank">BitDevs</a>
+      </nav>
+    </header>
+    <hr>
+    <article>
+      
+<h1>Socratic Seminar 6</h1>
+<p><strong>2024-07-15</strong></p>
+<h2 id="housekeeping">Housekeeping</h2>
+<ul>
+<li>This meetup is generously sponsored by <a href="https://dg717.com/">Digital Garage</a> and <a href="https://hivemind.vc">Hivemind Ventures</a>.</li>
+<li>Questions are encouraged, including basic ones!</li>
+<li>Socratic Seminars are held under the <a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a>: share the information you receive, but do not reveal the identity of who said it.</li>
+<li>For the privacy of other attendees, please refrain from taking photographs of other people without their permission.</li>
+<li>Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.</li>
+<li>The reading list covers April 13th to May 11th.</li>
+</ul>
+<h2 id="chain-weather-report">Chain Weather Report</h2>
+<ul>
+<li><a href="https://mempool.space/lightning">Mempool.space Lightning Dashboard</a></li>
+<li><a href="https://bitcoin.clarkmoody.com/dashboard/">Clark Moody Dashboard</a></li>
+</ul>
+<h2 id="news">News</h2>
+<ul>
+<li><a href="https://x.com/PhoenixWallet/status/1808547081214439494">Phoenix Android/iOS/Server now supports BOLT12</a></li>
+</ul>
+<h2 id="discussion">Discussion</h2>
+<h4 id="delving-bitcoin"><a href="https://delvingbitcoin.org/">Delving Bitcoin</a></h4>
+<ul>
+<li><a href="https://delvingbitcoin.org/t/blip-bolt-11-invoice-blinded-path-tagged-field/991">bLIP: BOLT 11 Invoice Blinded Path Tagged Field</a></li>
+<li><a href="https://delvingbitcoin.org/t/estimating-likelihood-for-lightning-payments-to-be-in-feasible/973">Estimating Likelihood for Lightning Payments to be (in)feasible</a></li>
+</ul>
+<h2 id="miscellaneous">Miscellaneous</h2>
+<ul>
+<li><a href="https://brink.dev/blog/2024/06/25/eng-call-fuzz-testing-lightning/">Matt Morehouse on Fuzz Testing the Lightning Network</a></li>
+</ul>
+<h2 id="releases">Releases</h2>
+<ul>
+<li><a href="https://github.com/lightningnetwork/lnd/releases/tag/v0.18.2-beta">lnd v0.18.2-beta</a></li>
+</ul>
+<h2 id="noteworthy-prs">Noteworthy PRs</h2>
+<h3 id="core-lightning"><a href="https://github.com/ElementsProject/lightning">Core Lightning</a></h3>
+<ul>
+<li><a href="https://github.com/ElementsProject/lightning/pull/7455"> Part 2: connectd onionmessage improvements</a></li>
+</ul>
+<h3 id="eclair"><a href="https://github.com/ACINQ/eclair/">eclair</a></h3>
+<ul>
+<li><a href="https://github.com/ACINQ/eclair/pull/2877">Monitor onion messages</a></li>
+<li><a href="https://github.com/ACINQ/eclair/pull/2870">Reject unspendable inputs in interactive-tx</a></li>
+<li><a href="https://github.com/ACINQ/eclair/pull/2878">Activate route blinding and quiescence features</a></li>
+</ul>
+<h3 id="ldk"><a href="https://github.com/lightningdevkit/rust-lightning">LDK</a></h3>
+<ul>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3085">Introduce MessageContext and use it to allow abandon failed payments</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2989">Interactive TX negotiation tracks shared outputs</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3156">Set max path length when paying BOLT 12 invoices.</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3132">Blinded paths with unannounced introduction nodes</a></li>
+</ul>
+<h3 id="lnd"><a href="https://github.com/lightningnetwork/lnd">lnd</a></h3>
+<ul>
+<li><a href="https://github.com/lightningnetwork/lnd/pull/8752">1/4 Route Blinding Receives: Groundwork</a></li>
+<li><a href="https://github.com/lightningnetwork/lnd/pull/8734">routing: cancelable payment loop</a></li>
+<li><a href="https://github.com/lightningnetwork/lnd/pull/8861">multi: hook up breach arb with new aux sweeper sub-system</a></li>
+</ul>
+
+
+    </article>
+    <hr>
+    <footer>
+      <span>
+        Sponsored by <a href="https://www.garage.co.jp/en/">Digital Garage</a> and <a href="https://hivemind.vc">Hivemind Ventures</a>.
+      </span>
+    </footer>
+  </body>
+</html>
