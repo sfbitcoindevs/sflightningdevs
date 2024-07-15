@@ -2,7 +2,7 @@ base_url = "https://www.sflightningdevs.org"
 compile_sass = false
 build_search_index = false
 generate_feeds = true
-feed_filename = "feed.xml"
+feed_filenames = "feed.xml"
 
 [markdown]
 highlight_code = false
