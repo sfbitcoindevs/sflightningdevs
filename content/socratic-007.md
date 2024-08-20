@@ -20,21 +20,24 @@ Chain Weather Report
 - [Mempool.space Lightning Dashboard](https://mempool.space/lightning)
 - [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
 
-
 News
 ----
 - [Taproot Assets on Lightning: The Global Financial Interoperability Layer](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/)
+- [Bisq2 adds Lightning support](https://github.com/bisq-network/bisq2/releases)
+- [Mutiny Wallet is shutting down](https://blog.mutinywallet.com/mutiny-wallet-is-shutting-down/)
+- [Super Testnet compares Monero and Lightning privacy](https://x.com/super_testnet/status/1824267315707334677)
 
 Discussion
 ----------
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 - [Bolt 12 Trusted Contacts](https://delvingbitcoin.org/t/bolt-12-trusted-contacts/1046)
 
-
 Releases
 --------
 - [Core Lightning v24.08rc2](https://github.com/ElementsProject/lightning/blob/master/CHANGELOG.md#2408rc2---2024-08-15-to-be-added)
 - [lnd v0.18.3](https://github.com/lightningnetwork/lnd/blob/master/docs/release-notes/release-notes-0.18.3.md)
+- [VLS 0.12](https://vls.tech/posts/v0.12/)
+- [Ark v0.2](https://arkdev.info/blog/ark-release-v0.2/)
 
 bLIPs
 --------
