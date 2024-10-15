@@ -36,6 +36,7 @@ Discussion
 - [Expanding on BOLT12](https://delvingbitcoin.org/t/expanding-on-bolt12/1167)
 
 #### Miscellaneous
+- [LDK + BOLT12 + Rust demo of stable channels](https://x.com/tonklaus/status/1843325326040129956)
 - [Multi-party submarine swaps](https://conduition.io/scriptless/multi-party-submarine-swaps/)
 - [Ark 0.3.0](https://arkdev.info/blog/ark-release-v0.3/)
 
