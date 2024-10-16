@@ -4,8 +4,111 @@
 	<link href="https://www.sflightningdevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.sflightningdevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2024-08-22T00:00:00+00:00</updated>
+	<updated>2024-10-17T00:00:00+00:00</updated>
 	<id>https://www.sflightningdevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 8</title>
+		<published>2024-10-17T00:00:00+00:00</published>
+		<updated>2024-10-17T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.sflightningdevs.org/socratic-008/" type="text/html"/>
+		<id>https://www.sflightningdevs.org/socratic-008/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;hivemind.vc&quot;&gt;Hivemind Ventures&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers August 23rd to October 14th.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;lightning&quot;&gt;Mempool.space Lightning Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;Clark Moody Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;strike.me&#x2F;blog&#x2F;bolt12-offers&#x2F;&quot;&gt;Strike adds BOLT12 support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;10101.finance&#x2F;blog&#x2F;10101-is-shutting-down&#x2F;&quot;&gt;10101 is shutting down&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;hybrid-jamming-mitigation-results-and-updates&#x2F;1147&quot;&gt;Hybrid jamming mitigation: results and updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories&#x2F;1143&quot;&gt;SuperScalar: laddered timeout-tree structured Decker-Wattenhofer factories&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;privately-sending-payments-while-offline-with-bolt12&#x2F;1134&quot;&gt;Privately sending payments while offline with BOLT12&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;lightning-cheques&#x2F;11620&quot;&gt;Lightning cheques&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;expanding-on-bolt12&#x2F;1167&quot;&gt;Expanding on BOLT12&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;miscellaneous&quot;&gt;Miscellaneous&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;tonklaus&#x2F;status&#x2F;1843325326040129956&quot;&gt;LDK + BOLT12 + Rust demo of stable channels&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;conduition.io&#x2F;scriptless&#x2F;multi-party-submarine-swaps&#x2F;&quot;&gt;Multi-party submarine swaps&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arkdev.info&#x2F;blog&#x2F;ark-release-v0.3&#x2F;&quot;&gt;Ark 0.3.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;releases&#x2F;tag&#x2F;v24.08&quot;&gt;Core Lightning 24.08&lt;&#x2F;a&gt; &amp;amp; &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;releases&#x2F;tag&#x2F;v24.08.1&quot;&gt;Core Lightning 24.08.1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;releases&#x2F;tag&#x2F;v0.0.124&quot;&gt;LDK 0.0.124&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;releases&#x2F;tag&#x2F;v0.18.3-beta&quot;&gt;LND 0.18.3beta&lt;&#x2F;a&gt; (&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;blob&#x2F;0-18-3-branch&#x2F;docs&#x2F;release-notes&#x2F;release-notes-0.18.3.md&quot;&gt;Release notes&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;PhoenixWallet&#x2F;status&#x2F;1844377194489053555&quot;&gt;Phoenix mobile 2.4.0 &amp;amp; phoenixd 0.4.0&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Increased BOLT12 invoice expiry to 24 hours&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.zeusln.com&#x2F;new-release-zeus-v0-9-0&#x2F;&quot;&gt;Zeus 0.9.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;blips-bolts&quot;&gt;bLIPs &amp;amp; BOLTs&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;pull&#x2F;798&quot;&gt;BOLT12 spec merged: ready for tattoos&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;noteworthy-prs&quot;&gt;Noteworthy PRs&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;core-lightning&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&quot;&gt;Core Lightning&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;7644&quot;&gt;hsmtool: provide nodeid from hsm secret&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;7494&quot;&gt;pay: Remember and update channel_hints across payments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;7539&quot;&gt;Add getemergencyrecoverdata RPC Command to Fetch Data from emergency.recover File&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;eclair&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;&quot;&gt;eclair&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2861&quot;&gt;Implement on-the-fly funding based on splicing and liquidity ads&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;blips&#x2F;pull&#x2F;36&quot;&gt;bLIP 36: on-the-fly channel funding&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2875&quot;&gt;Add support for &lt;code&gt;funding_fee_credit&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;blips&#x2F;blob&#x2F;043b698471c4cc0f2d0e4cb6856f132690e377f9&#x2F;blip-0041.md&quot;&gt;bLIP 41: Channel funding fee credit&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2865&quot;&gt;Wake up wallet nodes before relaying messages or payments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2848&quot;&gt;Extensible liquidity ads&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2860&quot;&gt;Add &lt;code&gt;recommended_feerates&lt;&#x2F;code&gt; optional message&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;ldk&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&quot;&gt;LDK&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;3179&quot;&gt;Add the core functionality required to resolve Human Readable Names&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;blips&#x2F;blob&#x2F;master&#x2F;blip-0032.md&quot;&gt;bLIP 32: Onion Message DNS Resolution&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;3140&quot;&gt;Support paying static invoices&lt;&#x2F;a&gt; per &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;pull&#x2F;1149&quot;&gt;BOLTs #1149&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;3268&quot;&gt;Split up &lt;code&gt;ConfirmationTarget&lt;&#x2F;code&gt; even more&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;3163&quot;&gt;Introduce Reply Paths for BOLT12 Invoice in Offers Flow&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;3010&quot;&gt;Introduce Retry InvoiceRequest Flow&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;lnd&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&quot;&gt;lnd&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;8044&quot;&gt;[1&#x2F;7] lnwire: add new Gossip 1.75 messages&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;07&#x2F;26&#x2F;#updated-channel-announcements&quot;&gt;Optech explainer: Updated channel announcements&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;8960&quot;&gt;[custom channels 5&#x2F;5]: merge custom channel staging branch into master&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;9009&quot;&gt;discovery: implement banning for invalid channel anns&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 7</title>
 		<published>2024-08-22T00:00:00+00:00</published>
