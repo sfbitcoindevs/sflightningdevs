@@ -23,7 +23,6 @@ Chain Weather Report
 News
 ----
 - [Strike adds BOLT12 support](https://strike.me/blog/bolt12-offers/)
-- [Bisq adds Lightning support](https://github.com/bisq-network/bisq2/releases/tag/v2.1.0)
 - [10101 is shutting down](https://10101.finance/blog/10101-is-shutting-down/)
 
 Discussion
