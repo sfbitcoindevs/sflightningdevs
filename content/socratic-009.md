@@ -22,17 +22,19 @@ Chain Weather Report
 
 News
 ----
--- N/A
+- [Amboss announces Magma AI](https://amboss.tech/blog/magma-ai)
+- [Alby Labs releases ZapPlanner](https://zapplanner.albylabs.com/)
+- [Closure of "DH Node" routing node by Diamond Hands](https://diamondhandsen.substack.com/p/closure-of-the-dh-node-routing-node)
+- [Lightstack: Automagic Selfcustodial Cloud Lightning Stack](https://github.com/massmux/lightstack)
 
 Discussion
 ----------
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 - [Disclosure: irrevocable fees -- stealing from LN using revoked commitment transactions](https://delvingbitcoin.org/t/disclosure-irrevocable-fees-stealing-from-ln-using-revoked-commitment-transactions/1314)
 - [BROKEN: Multi-Party Eltoo with bounded settlement](https://delvingbitcoin.org/t/broken-multi-party-eltoo-with-bounded-settlement/1364)
-- []()
 
 #### Miscellaneous
-- N/A
+- [A fast, scalable protocol for resolving Lightning payments](https://github.com/JohnLaw2/ln-opr/blob/main/opr_v1.1.pdf)
 
 Releases
 --------
