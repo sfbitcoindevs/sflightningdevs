@@ -26,12 +26,17 @@ News
 - [Alby Labs releases ZapPlanner](https://zapplanner.albylabs.com/)
 - [Closure of "DH Node" routing node by Diamond Hands](https://diamondhandsen.substack.com/p/closure-of-the-dh-node-routing-node)
 - [Lightstack: Automagic Selfcustodial Cloud Lightning Stack](https://github.com/massmux/lightstack)
+- [Boltz launches Boltz Pro](https://xcancel.com/Boltzhq/status/1873778286947688831)
 
 Discussion
 ----------
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 - [Disclosure: irrevocable fees -- stealing from LN using revoked commitment transactions](https://delvingbitcoin.org/t/disclosure-irrevocable-fees-stealing-from-ln-using-revoked-commitment-transactions/1314)
 - [BROKEN: Multi-Party Eltoo with bounded settlement](https://delvingbitcoin.org/t/broken-multi-party-eltoo-with-bounded-settlement/1364)
+- [Contract-level Relative Timelocks or, let’s talk about ancestry proofs and singletons](https://delvingbitcoin.org/t/contract-level-relative-timelocks-or-lets-talk-about-ancestry-proofs-and-singletons/1353)
+
+#### [Bitcoin Optech Podcast](https://bitcoinops.org/en/podcast/)
+- [Channel Depletion Research Deep Dive Podcast](https://bitcoinops.org/en/podcast/2024/12/12/)
 
 #### Miscellaneous
 - [A fast, scalable protocol for resolving Lightning payments](https://github.com/JohnLaw2/ln-opr/blob/main/opr_v1.1.pdf)
@@ -48,6 +53,10 @@ bLIPs & BOLTs
 - [Add bLIP 51: Channel Requests (LSPS1)](https://github.com/lightning/blips/pull/53)
 - [Add bLIP 52: JIT Channel Negotiation (LSPS2)](https://github.com/lightning/blips/pull/54)
 - [Include BIP 353 name info in invoice_requests](https://github.com/lightning/bolts/pull/1180)
+- [Project Updates: Hybrid Channel Jamming Mitigation](https://github.com/lightning/bolts/issues/1218)
+- [LN Spec Meeting 12/16](https://github.com/lightning/bolts/issues/1213)
+- [LN Spec Meeting 01/13](https://github.com/lightning/bolts/issues/1216)
+- [Remove explicit 6-blocks delay for announcement_signatures](https://github.com/lightning/bolts/pull/1215)
 
 Noteworthy PRs
 --------------
@@ -58,6 +67,8 @@ Noteworthy PRs
 ### [eclair](https://github.com/ACINQ/eclair/)
 - [Peer storage](https://github.com/ACINQ/eclair/pull/2888)
 - [Delay considering a channel closed when seeing an on-chain spend](https://github.com/ACINQ/eclair/pull/2936)
+- [Increase min-depth for funding transactions](https://github.com/ACINQ/eclair/pull/2973)
+- [Implement option_simple_close](https://github.com/ACINQ/eclair/pull/2967)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 - [Support Trampoline flag in BOLT12 invoices](https://github.com/lightningdevkit/rust-lightning/pull/3446)
@@ -68,4 +79,5 @@ Noteworthy PRs
 - [Batch on-chain claims more aggressively per channel](https://github.com/lightningdevkit/rust-lightning/pull/3340)
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
-- N/A
+- [Add Silent Payment send support](https://github.com/lightningnetwork/lnd/pull/9398)
+- [Onion messaging + bolt 12 offers](https://github.com/lightningnetwork/lnd/pull/9369)
