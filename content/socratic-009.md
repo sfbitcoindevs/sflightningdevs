@@ -27,6 +27,8 @@ News
 - [Closure of "DH Node" routing node by Diamond Hands](https://diamondhandsen.substack.com/p/closure-of-the-dh-node-routing-node)
 - [Boltz launches Boltz Pro](https://xcancel.com/Boltzhq/status/1873778286947688831)
 - [Rizful: a service offering instant disposable Lightning nodes](https://rizful.com/)
+- [LQWD Liquidity Provider](https://lightningdevkit.org/blog/lqwd-liquidity-provider-get-liquidity-when-you-need-it/)
+- [Self-Custodial LN in 2025](https://sats.build/self-custody-lightning-2025/)
 
 Discussion
 ----------
@@ -71,6 +73,7 @@ Noteworthy PRs
 - [Increase min-depth for funding transactions](https://github.com/ACINQ/eclair/pull/2973)
 - [Implement option_simple_close](https://github.com/ACINQ/eclair/pull/2967)
 - [Get ready for storing partial commit signatures](https://github.com/ACINQ/eclair/pull/2896)
+- [Send channel_announcement for splice transactions on public channels](https://github.com/ACINQ/eclair/pull/2968)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 - [Support Trampoline flag in BOLT12 invoices](https://github.com/lightningdevkit/rust-lightning/pull/3446)
