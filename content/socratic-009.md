@@ -25,8 +25,8 @@ News
 - [Amboss announces Magma AI](https://amboss.tech/blog/magma-ai)
 - [Alby Labs releases ZapPlanner](https://zapplanner.albylabs.com/)
 - [Closure of "DH Node" routing node by Diamond Hands](https://diamondhandsen.substack.com/p/closure-of-the-dh-node-routing-node)
-- [Lightstack: Automagic Selfcustodial Cloud Lightning Stack](https://github.com/massmux/lightstack)
 - [Boltz launches Boltz Pro](https://xcancel.com/Boltzhq/status/1873778286947688831)
+- [Rizful: a service offering instant disposable Lightning nodes](https://rizful.com/)
 
 Discussion
 ----------
@@ -40,6 +40,7 @@ Discussion
 
 #### Miscellaneous
 - [A fast, scalable protocol for resolving Lightning payments](https://github.com/JohnLaw2/ln-opr/blob/main/opr_v1.1.pdf)
+- [Lightstack: Automagic Selfcustodial Cloud Lightning Stack](https://github.com/massmux/lightstack)
 
 Releases
 --------
@@ -69,6 +70,7 @@ Noteworthy PRs
 - [Delay considering a channel closed when seeing an on-chain spend](https://github.com/ACINQ/eclair/pull/2936)
 - [Increase min-depth for funding transactions](https://github.com/ACINQ/eclair/pull/2973)
 - [Implement option_simple_close](https://github.com/ACINQ/eclair/pull/2967)
+- [Get ready for storing partial commit signatures](https://github.com/ACINQ/eclair/pull/2896)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 - [Support Trampoline flag in BOLT12 invoices](https://github.com/lightningdevkit/rust-lightning/pull/3446)
@@ -77,6 +79,7 @@ Noteworthy PRs
 - [Authenticate blinded payment paths](https://github.com/lightningdevkit/rust-lightning/pull/3435)
 - [Set holder_commitment_point to Available on upgrade](https://github.com/lightningdevkit/rust-lightning/pull/3365)
 - [Batch on-chain claims more aggressively per channel](https://github.com/lightningdevkit/rust-lightning/pull/3340)
+- [Add static invoice creation utils to ChannelManager](https://github.com/lightningdevkit/rust-lightning/pull/3408)
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
 - [Add Silent Payment send support](https://github.com/lightningnetwork/lnd/pull/9398)
