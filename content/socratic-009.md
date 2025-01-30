@@ -22,6 +22,9 @@ Chain Weather Report
 
 News
 ----
+- [Ross is free!] (https://freeross.org/)
+- [Bitcorn Lightning chat room] (https://bitcorn.io)
+- [Solo block] (https://mempool.space/block/0000000000000000000269d52c24ea451225613aab095d90d771d4e29aa96cdd) found during the [256 Foundation] (https://256foundation.org/) Telehash
 - [Amboss announces Magma AI](https://amboss.tech/blog/magma-ai)
 - [Alby Labs releases ZapPlanner](https://zapplanner.albylabs.com/)
 - [Closure of "DH Node" routing node by Diamond Hands](https://diamondhandsen.substack.com/p/closure-of-the-dh-node-routing-node)
