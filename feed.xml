@@ -28,9 +28,9 @@
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;[Ross is free!] (https:&#x2F;&#x2F;freeross.org&#x2F;)&lt;&#x2F;li&gt;
-&lt;li&gt;[Bitcorn Lightning chat room] (https:&#x2F;&#x2F;bitcorn.io)&lt;&#x2F;li&gt;
-&lt;li&gt;[Solo block] (https:&#x2F;&#x2F;mempool.space&#x2F;block&#x2F;0000000000000000000269d52c24ea451225613aab095d90d771d4e29aa96cdd) found during the [256 Foundation] (https:&#x2F;&#x2F;256foundation.org&#x2F;) Telehash&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;freeross.org&#x2F;&quot;&gt;Ross is free!&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcorn.io&quot;&gt;Bitcorn Lightning chat room&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;block&#x2F;0000000000000000000269d52c24ea451225613aab095d90d771d4e29aa96cdd&quot;&gt;Solo block&lt;&#x2F;a&gt; found during the &lt;a href=&quot;https:&#x2F;&#x2F;256foundation.org&#x2F;&quot;&gt;256 Foundation&lt;&#x2F;a&gt; Telehash using &lt;a href=&quot;https:&#x2F;&#x2F;www.futurebit.io&#x2F;&quot;&gt;Apollo II&lt;&#x2F;a&gt; node&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;amboss.tech&#x2F;blog&#x2F;magma-ai&quot;&gt;Amboss announces Magma AI&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;zapplanner.albylabs.com&#x2F;&quot;&gt;Alby Labs releases ZapPlanner&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;diamondhandsen.substack.com&#x2F;p&#x2F;closure-of-the-dh-node-routing-node&quot;&gt;Closure of &quot;DH Node&quot; routing node by Diamond Hands&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
