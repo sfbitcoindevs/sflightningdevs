@@ -29,6 +29,7 @@ News
 - [Alby Labs releases ZapPlanner](https://zapplanner.albylabs.com/)
 - [Closure of "DH Node" routing node by Diamond Hands](https://diamondhandsen.substack.com/p/closure-of-the-dh-node-routing-node)
 - [Boltz launches Boltz Pro](https://xcancel.com/Boltzhq/status/1873778286947688831)
+- [Tether will return to bitcoin via Taproot Assets](https://x.com/Tether_to/status/1885081039933956146)
 - [Rizful: a service offering instant disposable Lightning nodes](https://rizful.com/)
 - [LQWD Liquidity Provider](https://lightningdevkit.org/blog/lqwd-liquidity-provider-get-liquidity-when-you-need-it/)
 - [Self-Custodial LN in 2025](https://sats.build/self-custody-lightning-2025/)
