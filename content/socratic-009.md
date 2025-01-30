@@ -90,3 +90,8 @@ Noteworthy PRs
 ### [lnd](https://github.com/lightningnetwork/lnd)
 - [Add Silent Payment send support](https://github.com/lightningnetwork/lnd/pull/9398)
 - [Onion messaging + bolt 12 offers](https://github.com/lightningnetwork/lnd/pull/9369)
+
+Security
+--------------
+- [Morehouse on LDK: Invalid Claims Liquidity Griefing](https://morehouse.github.io/lightning/ldk-invalid-claims-liquidity-griefing/)
+- [Morehouse on LDK: Duplicate HTLC Force Close Griefing](https://morehouse.github.io/lightning/ldk-duplicate-htlc-force-close-griefing/)
