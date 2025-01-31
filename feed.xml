@@ -101,6 +101,11 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;9398&quot;&gt;Add Silent Payment send support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;9369&quot;&gt;Onion messaging + bolt 12 offers&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;security&quot;&gt;Security&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;morehouse.github.io&#x2F;lightning&#x2F;ldk-invalid-claims-liquidity-griefing&#x2F;&quot;&gt;Morehouse on LDK: Invalid Claims Liquidity Griefing&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;morehouse.github.io&#x2F;lightning&#x2F;ldk-duplicate-htlc-force-close-griefing&#x2F;&quot;&gt;Morehouse on LDK: Duplicate HTLC Force Close Griefing&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
