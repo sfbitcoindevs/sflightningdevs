@@ -11,7 +11,7 @@ Housekeeping
 - Socratic Seminars are held under the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): share the information you receive, but do not reveal the identity of who said it.
 - For the privacy of other attendees, please refrain from taking photographs of other people without their permission.
 - Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.
-- The reading list covers Dec 12th to January 28th.
+- The reading list covers January 29th to March 13th.
 
 
 Chain Weather Report
@@ -27,7 +27,8 @@ News
 Discussion
 ----------
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
-- N/A
+- [Which Ephemeral Anchor Script Should Lightning Use?](https://delvingbitcoin.org/t/which-ephemeral-anchor-script-should-lightning-use/1412)
+- [Zk-Gossip for Lightning Channel Announcements](https://delvingbitcoin.org/t/zk-gossip-for-lightning-channel-announcements/1407)
 
 #### [Bitcoin Optech Podcast](https://bitcoinops.org/en/podcast/)
 - N/A
@@ -50,10 +51,10 @@ Noteworthy PRs
 - N/A
 
 ### [eclair](https://github.com/ACINQ/eclair/)
-- N/A
+- [Only Sync With Top Peers](https://github.com/ACINQ/eclair/pull/2983)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
-- N/A
+- [Fail Htlc Backwards Before Upstream Claims On-Chain](https://github.com/lightningdevkit/rust-lightning/pull/3556)
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
 - N/A
