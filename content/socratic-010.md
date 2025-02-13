@@ -29,6 +29,7 @@ Discussion
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 - [Which Ephemeral Anchor Script Should Lightning Use?](https://delvingbitcoin.org/t/which-ephemeral-anchor-script-should-lightning-use/1412)
 - [Zk-Gossip for Lightning Channel Announcements](https://delvingbitcoin.org/t/zk-gossip-for-lightning-channel-announcements/1407)
+- [Highly Available Lightning Channels Revisited – ROUTE OR OUT](https://delvingbitcoin.org/t/highly-available-lightning-channels-revisited-route-or-out/1438)
 
 #### [Bitcoin Optech Podcast](https://bitcoinops.org/en/podcast/)
 - N/A
@@ -42,7 +43,7 @@ Releases
 
 bLIPs & BOLTs
 -------------
-- N/A
+- [Option Simple Close](https://github.com/lightning/bolts/pull/1205)
 
 Noteworthy PRs
 --------------
@@ -55,6 +56,7 @@ Noteworthy PRs
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 - [Fail Htlc Backwards Before Upstream Claims On-Chain](https://github.com/lightningdevkit/rust-lightning/pull/3556)
+- [Implement Quiescence Protocol](https://github.com/lightningdevkit/rust-lightning/pull/3588)
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
 - N/A
