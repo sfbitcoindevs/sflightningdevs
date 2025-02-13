@@ -23,6 +23,7 @@ Chain Weather Report
 News
 ----
 - [USDT Is Coming to Bitcoin and Lightning](https://tether.io/news/tether-brings-usdt-to-bitcoins-lightning-network-ushering-in-a-new-era-of-unstoppable-technology/)
+- [Pathfinding With LDK](https://lightningdevkit.org/blog/ldk-pathfinding/)
 
 Discussion
 ----------
