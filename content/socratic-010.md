@@ -33,6 +33,7 @@ Discussion
 - [Zero-fee commitments for mobile wallets](https://delvingbitcoin.org/t/zero-fee-commitments-for-mobile-wallets/1453)
 - [Highly Available Lightning Channels Revisited – ROUTE OR OUT](https://delvingbitcoin.org/t/highly-available-lightning-channels-revisited-route-or-out/1438)
 - [Disclosure: LDK Duplicate HTLC Force Close Griefing](https://delvingbitcoin.org/t/disclosure-ldk-duplicate-htlc-force-close-griefing/1410)
+- [Hybrid Jamming Mitigation: Results and Updates](https://delvingbitcoin.org/t/hybrid-jamming-mitigation-results-and-updates/1147/7)
 
 #### [Bitcoin Optech Podcast](https://bitcoinops.org/en/podcast/)
 - N/A
@@ -53,6 +54,11 @@ bLIPs & BOLTs
 - [Option Simple Close](https://github.com/lightning/bolts/pull/1205)
 - [Peer storage protocol spec merged](https://github.com/lightning/bolts/pull/1110)
 - [option_simple_close (features 60/61)](https://github.com/lightning/bolts/pull/1205)
+- [Attributable failures (feature 36/37)](https://github.com/lightning/bolts/pull/1044)
+- [Zero-fee commitments using v3 transactions (feature 40/41)](https://github.com/lightning/bolts/pull/1228)
+- [Lightning Specification Meeting 2025/02/10](https://github.com/lightning/bolts/issues/1224)
+- [Lightning Specification Meeting 2025/02/24](https://github.com/lightning/bolts/issues/1229)
+- [Lightning Specification Meeting 2025/03/10](https://github.com/lightning/bolts/issues/1234)
 
 Noteworthy PRs
 --------------
