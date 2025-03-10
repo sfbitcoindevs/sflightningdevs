@@ -41,6 +41,7 @@ Discussion
 - [Highly Available Lightning Channels Revisited – ROUTE OR OUT](https://delvingbitcoin.org/t/highly-available-lightning-channels-revisited-route-or-out/1438)
 - [Disclosure: LDK Duplicate HTLC Force Close Griefing](https://delvingbitcoin.org/t/disclosure-ldk-duplicate-htlc-force-close-griefing/1410)
 - [Hybrid Jamming Mitigation: Results and Updates](https://delvingbitcoin.org/t/hybrid-jamming-mitigation-results-and-updates/1147/7)
+- [An Exposition of Pathfinding Strategies Within Lightning Network Clients](https://delvingbitcoin.org/t/an-exposition-of-pathfinding-strategies-within-lightning-network-clients/1500)
 
 #### [Bitcoin Optech Podcast](https://bitcoinops.org/en/podcast/)
 - N/A
@@ -98,4 +99,4 @@ Noteworthy PRs
 
 Security
 --------------
-- N/A
+- [LND: Excessive Failback Exploit](https://morehouse.github.io/lightning/lnd-excessive-failback-exploit)
