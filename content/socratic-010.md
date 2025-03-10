@@ -24,6 +24,13 @@ News
 ----
 - [USDT Is Coming to Bitcoin and Lightning](https://tether.io/news/tether-brings-usdt-to-bitcoins-lightning-network-ushering-in-a-new-era-of-unstoppable-technology/)
 - [Pathfinding With LDK](https://lightningdevkit.org/blog/ldk-pathfinding/)
+- [Custodial Solutions Are Not Solutions](https://spiralbtc.substack.com/p/custodial-solutions-are-not-solutions)
+- [How MuSig2 Is Powering Lightning Liquidity with Loop](https://lightning.engineering/posts/2025-02-13-loop-musig2)
+- [PSA: You can now recover sats you might have lost in channels with LNBIG in 2018-2021](https://x.com/guggero/status/1888887824105046230)
+- [Fedimint Lightning Gateway uses LDK Node to simplify deployment and liquidity management](https://lightningdevkit.org/blog/fedimint-lightning-gateway-uses-ldk-node-to-simplify-deployment-and-liquidity-management)
+- [How we built our Sparknodes using LDK](https://lightningdevkit.org/blog/how-we-built-our-sparknodes-using-ldk)
+- [Bitcoin Payments: From Digital Gold to Everyday Currency](https://breez.technology/report)
+- [What’s Driving Bitcoin Adoption in 2025?](https://blog.river.com/bitcoin-adoption-2025)
 
 Discussion
 ----------
