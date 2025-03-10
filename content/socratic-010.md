@@ -30,7 +30,9 @@ Discussion
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 - [Which Ephemeral Anchor Script Should Lightning Use?](https://delvingbitcoin.org/t/which-ephemeral-anchor-script-should-lightning-use/1412)
 - [Zk-Gossip for Lightning Channel Announcements](https://delvingbitcoin.org/t/zk-gossip-for-lightning-channel-announcements/1407)
+- [Zero-fee commitments for mobile wallets](https://delvingbitcoin.org/t/zero-fee-commitments-for-mobile-wallets/1453)
 - [Highly Available Lightning Channels Revisited – ROUTE OR OUT](https://delvingbitcoin.org/t/highly-available-lightning-channels-revisited-route-or-out/1438)
+- [Disclosure: LDK Duplicate HTLC Force Close Griefing](https://delvingbitcoin.org/t/disclosure-ldk-duplicate-htlc-force-close-griefing/1410)
 
 #### [Bitcoin Optech Podcast](https://bitcoinops.org/en/podcast/)
 - N/A
@@ -40,27 +42,46 @@ Discussion
 
 Releases
 --------
-- N/A
+- [Core Lightning v25.02](https://github.com/ElementsProject/lightning/releases/tag/v25.02)
+- [LDK v0.1.1](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.1.1)
+- [LND v0.18.5-beta](https://github.com/lightningnetwork/lnd/blob/0-18-5-branch/docs/release-notes/release-notes-0.18.5.md)
+- [Phoenix v2.5.0](https://github.com/ACINQ/phoenix/releases/tag/android-v2.5.0)
+- [VLS v0.13](https://vls.tech/posts/v0.13/)
 
 bLIPs & BOLTs
 -------------
 - [Option Simple Close](https://github.com/lightning/bolts/pull/1205)
+- [Peer storage protocol spec merged](https://github.com/lightning/bolts/pull/1110)
+- [option_simple_close (features 60/61)](https://github.com/lightning/bolts/pull/1205)
 
 Noteworthy PRs
 --------------
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
-- N/A
+- [renepay: Support for BOLT12](https://github.com/ElementsProject/lightning/pull/7985)
+- [Add support for BIP353 human readable names & more](https://github.com/ElementsProject/lightning/pull/7887)
+- [xpay: don't MPP if we're told not to](https://github.com/ElementsProject/lightning/pull/8059)
 
 ### [eclair](https://github.com/ACINQ/eclair/)
 - [Only Sync With Top Peers](https://github.com/ACINQ/eclair/pull/2983)
+- [Send channel_announcement for splice transactions on public channels](https://github.com/ACINQ/eclair/pull/2968)
+- [Add router support for batched splices](https://github.com/ACINQ/eclair/pull/2989)
+- [Add liquidity griefing protection for liquidity ads](https://github.com/ACINQ/eclair/pull/2982)
+- [Allow recipient to pay for blinded route fees](https://github.com/ACINQ/eclair/pull/2993)
+- [Add scripts for taproot channels](https://github.com/ACINQ/eclair/pull/3016)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 - [Fail Htlc Backwards Before Upstream Claims On-Chain](https://github.com/lightningdevkit/rust-lightning/pull/3556)
 - [Implement Quiescence Protocol](https://github.com/lightningdevkit/rust-lightning/pull/3588)
+- [Support receiving async payments](https://github.com/lightningdevkit/rust-lightning/pull/3440)
+- [PeerStorage: Add feature and store peer storage in ChannelManager](https://github.com/lightningdevkit/rust-lightning/pull/3575)
+- [Merge probabilistic scores from external source](https://github.com/lightningdevkit/rust-lightning/pull/3562)
+- [Introduce RouteParametersConfig](https://github.com/lightningdevkit/rust-lightning/pull/3342)
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
-- N/A
+- [lnrpc+docs: deprecate warning SendToRoute, SendToRouteSync, SendPayment, and SendPaymentSync in Release 0.19](https://github.com/lightningnetwork/lnd/pull/9456)
+- [Make BumpFee RPC user inputs more stricter](https://github.com/lightningnetwork/lnd/pull/9470)
+- [Allow coop closing a channel with HTLCs on it via lncli](https://github.com/lightningnetwork/lnd/pull/9491)
 
 Security
 --------------
