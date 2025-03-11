@@ -20,6 +20,11 @@ Chain Weather Report
 - [Mempool.space Lightning Dashboard](https://mempool.space/lightning)
 - [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
 
+Fun & Punchy Intro
+------------------
+
+- [Super Mario Sats game demo by D++](http://dplus.plus/pow?page=mario)
+
 News
 ----
 - [USDT Is Coming to Bitcoin and Lightning](https://tether.io/news/tether-brings-usdt-to-bitcoins-lightning-network-ushering-in-a-new-era-of-unstoppable-technology/)
