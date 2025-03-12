@@ -31,6 +31,7 @@ News
 - [How we built our Sparknodes using LDK](https://lightningdevkit.org/blog/how-we-built-our-sparknodes-using-ldk)
 - [Bitcoin Payments: From Digital Gold to Everyday Currency](https://breez.technology/report)
 - [What’s Driving Bitcoin Adoption in 2025?](https://blog.river.com/bitcoin-adoption-2025)
+- [LND's Deadline-Aware Budget Sweeper](https://morehouse.github.io/lightning/lnd-deadline-aware-budget-sweeper)
 
 Discussion
 ----------
