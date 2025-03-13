@@ -14,7 +14,7 @@
 		<id>https://www.sflightningdevs.org/socratic-010/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;hivemind.vc&quot;&gt;Hivemind Ventures&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;spiral.xyz&#x2F;&quot;&gt;Spiral&lt;&#x2F;a&gt; (our newest sponsor!).&lt;&#x2F;li&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;presidiobitcoin.org&quot;&gt;Presidio Bitcoin&lt;&#x2F;a&gt;!&lt;&#x2F;li&gt;
 &lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
 &lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
 &lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
@@ -29,6 +29,7 @@
 &lt;h2 id=&quot;fun-punchy-intro&quot;&gt;Fun &amp;amp; Punchy Intro&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dplus.plus&#x2F;pow?page=mario&quot;&gt;Super Mario Sats game demo by D++&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Satoshi&#x27;s 50th birthday party at Presidio Bitcoin 6:00 pm on April 5th&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -42,6 +43,10 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;breez.technology&#x2F;report&quot;&gt;Bitcoin Payments: From Digital Gold to Everyday Currency&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.river.com&#x2F;bitcoin-adoption-2025&quot;&gt;What’s Driving Bitcoin Adoption in 2025?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;morehouse.github.io&#x2F;lightning&#x2F;lnd-deadline-aware-budget-sweeper&quot;&gt;LND&#x27;s Deadline-Aware Budget Sweeper&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;presentation&quot;&gt;Presentation&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2410.01771&quot;&gt;Vikash Singh on machine learning + Lightning&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
 &lt;h4 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
@@ -73,7 +78,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;pull&#x2F;1205&quot;&gt;Option Simple Close&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;pull&#x2F;1110&quot;&gt;Peer storage protocol spec merged&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;pull&#x2F;1205&quot;&gt;option_simple_close (features 60&#x2F;61)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;pull&#x2F;1044&quot;&gt;Attributable failures (feature 36&#x2F;37)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;pull&#x2F;1228&quot;&gt;Zero-fee commitments using v3 transactions (feature 40&#x2F;41)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;issues&#x2F;1224&quot;&gt;Lightning Specification Meeting 2025&#x2F;02&#x2F;10&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
