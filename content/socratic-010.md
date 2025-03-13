@@ -6,13 +6,12 @@ date = 2025-03-13
 Housekeeping
 ------------
 
-- This meetup is generously sponsored by [Digital Garage](https://dg717.com/), [Hivemind Ventures](https://hivemind.vc), and [Spiral](https://spiral.xyz/) (our newest sponsor!).
+- This meetup is generously sponsored by [Presidio Bitcoin](https://presidiobitcoin.org)!
 - Questions are encouraged, including basic ones!
 - Socratic Seminars are held under the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): share the information you receive, but do not reveal the identity of who said it.
 - For the privacy of other attendees, please refrain from taking photographs of other people without their permission.
 - Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.
 - The reading list covers January 29th to March 13th.
-
 
 Chain Weather Report
 --------------------
@@ -24,6 +23,7 @@ Fun & Punchy Intro
 ------------------
 
 - [Super Mario Sats game demo by D++](http://dplus.plus/pow?page=mario)
+- Satoshi's 50th birthday party at Presidio Bitcoin 6:00 pm on April 5th
 
 News
 ----
@@ -37,6 +37,10 @@ News
 - [Bitcoin Payments: From Digital Gold to Everyday Currency](https://breez.technology/report)
 - [What’s Driving Bitcoin Adoption in 2025?](https://blog.river.com/bitcoin-adoption-2025)
 - [LND's Deadline-Aware Budget Sweeper](https://morehouse.github.io/lightning/lnd-deadline-aware-budget-sweeper)
+
+Presentation
+------------
+- [Vikash Singh on machine learning + Lightning](https://arxiv.org/abs/2410.01771)
 
 Discussion
 ----------
@@ -66,7 +70,6 @@ bLIPs & BOLTs
 -------------
 - [Option Simple Close](https://github.com/lightning/bolts/pull/1205)
 - [Peer storage protocol spec merged](https://github.com/lightning/bolts/pull/1110)
-- [option_simple_close (features 60/61)](https://github.com/lightning/bolts/pull/1205)
 - [Attributable failures (feature 36/37)](https://github.com/lightning/bolts/pull/1044)
 - [Zero-fee commitments using v3 transactions (feature 40/41)](https://github.com/lightning/bolts/pull/1228)
 - [Lightning Specification Meeting 2025/02/10](https://github.com/lightning/bolts/issues/1224)
