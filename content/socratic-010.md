@@ -6,7 +6,7 @@ date = 2025-03-13
 Housekeeping
 ------------
 
-- This meetup is generously sponsored by [Presidio Bitcoin](https://presidiobitcoin.org)!
+- This meetup is generously sponsored by [Spiral](https://spiral.xyz/)!
 - Questions are encouraged, including basic ones!
 - Socratic Seminars are held under the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): share the information you receive, but do not reveal the identity of who said it.
 - For the privacy of other attendees, please refrain from taking photographs of other people without their permission.
