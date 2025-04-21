@@ -22,6 +22,9 @@ Chain Weather Report
 News
 ----
 - [Announcing Versioned Storage Service (VSS)](https://lightningdevkit.org/blog/announcing-vss)
+- [Phoenix is back in the USA](https://x.com/acinq_co/status/1909651903421554833)
+- [Asset Loop](https://docs.lightning.engineering/lightning-network-tools/taproot-assets/asset-loop)
+- [Greenlight Empowers Non-Custodial Lightning Integration Using VLS](https://vls.tech/posts/greenlight-case-study/)
 
 Discussion
 ----------
