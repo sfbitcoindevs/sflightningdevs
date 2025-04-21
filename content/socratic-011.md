@@ -31,14 +31,18 @@ Discussion
 #### [Bitcoin Optech Podcast](https://bitcoinops.org/en/podcast/)
 
 #### Miscellaneous
+- [Lightning liquidity management agent](https://github.com/aftermath2/hydrus)
+- [ngx_l402: An Nginx module that enables pay-per-request authentication using the L402 protocol](https://github.com/DhananjayPurohit/ngx_l402)
+- [LNVPS: A bitcoin powered VPS provider](https://lnvps.net)
 
 Releases
 --------
+- [CLN v24.11.2 The lightning-dev Mailing List III](https://github.com/ElementsProject/lightning/releases/tag/v24.11.2)
+- [CLN v25.02.1 - Onion Packet Filler Accreditation II](https://github.com/ElementsProject/lightning/releases/tag/v25.02.1)
 - [Eclair v0.12.0](https://github.com/ACINQ/eclair/releases/tag/v0.12.0)
 - [LDK v0.1.2 - Apr 02, 2025 - "Foolishly Edgy Cases"](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.1.2)
-- [CLN v25.02.1 - Onion Packet Filler Accreditation II](https://github.com/ElementsProject/lightning/releases/tag/v25.02.1)
-- [CLN v24.11.2 The lightning-dev Mailing List III](https://github.com/ElementsProject/lightning/releases/tag/v24.11.2)
 - [LNBits v1.0.0 - Alan Bits](https://github.com/lnbits/lnbits/releases/tag/v1.0.0)
+- [Phoenixd v0.5.1](https://github.com/ACINQ/phoenixd/releases/tag/v0.5.1)
 
 bLIPs & BOLTs
 -------------
