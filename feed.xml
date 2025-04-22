@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title></title>
-	<link href="https://www.sflightningdevs.org/feed.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://www.sflightningdevs.org"/>
+	<link href="https://sflightningdevs.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sflightningdevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2025-04-24T00:00:00+00:00</updated>
-	<id>https://www.sflightningdevs.org/feed.xml</id>
+	<id>https://sflightningdevs.org/feed.xml</id>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 11</title>
 		<published>2025-04-24T00:00:00+00:00</published>
 		<updated>2025-04-24T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sflightningdevs.org/socratic-011/" type="text/html"/>
-		<id>https://www.sflightningdevs.org/socratic-011/</id>
+		<link rel="alternate" href="https://sflightningdevs.org/socratic-011/" type="text/html"/>
+		<id>https://sflightningdevs.org/socratic-011/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;spiral.xyz&#x2F;&quot;&gt;Spiral&lt;&#x2F;a&gt;!&lt;&#x2F;li&gt;
@@ -101,8 +101,8 @@
 		<title>Socratic Seminar 10</title>
 		<published>2025-03-13T00:00:00+00:00</published>
 		<updated>2025-03-13T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sflightningdevs.org/socratic-010/" type="text/html"/>
-		<id>https://www.sflightningdevs.org/socratic-010/</id>
+		<link rel="alternate" href="https://sflightningdevs.org/socratic-010/" type="text/html"/>
+		<id>https://sflightningdevs.org/socratic-010/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;spiral.xyz&#x2F;&quot;&gt;Spiral&lt;&#x2F;a&gt;!&lt;&#x2F;li&gt;
@@ -216,8 +216,8 @@
 		<title>Socratic Seminar 9</title>
 		<published>2025-01-30T00:00:00+00:00</published>
 		<updated>2025-01-30T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sflightningdevs.org/socratic-009/" type="text/html"/>
-		<id>https://www.sflightningdevs.org/socratic-009/</id>
+		<link rel="alternate" href="https://sflightningdevs.org/socratic-009/" type="text/html"/>
+		<id>https://sflightningdevs.org/socratic-009/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;hivemind.vc&quot;&gt;Hivemind Ventures&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;spiral.xyz&#x2F;&quot;&gt;Spiral&lt;&#x2F;a&gt; (our newest sponsor!).&lt;&#x2F;li&gt;
@@ -319,8 +319,8 @@
 		<title>Socratic Seminar 8</title>
 		<published>2024-10-17T00:00:00+00:00</published>
 		<updated>2024-10-17T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sflightningdevs.org/socratic-008/" type="text/html"/>
-		<id>https://www.sflightningdevs.org/socratic-008/</id>
+		<link rel="alternate" href="https://sflightningdevs.org/socratic-008/" type="text/html"/>
+		<id>https://sflightningdevs.org/socratic-008/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;hivemind.vc&quot;&gt;Hivemind Ventures&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -422,8 +422,8 @@
 		<title>Socratic Seminar 7</title>
 		<published>2024-08-22T00:00:00+00:00</published>
 		<updated>2024-08-22T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sflightningdevs.org/socratic-007/" type="text/html"/>
-		<id>https://www.sflightningdevs.org/socratic-007/</id>
+		<link rel="alternate" href="https://sflightningdevs.org/socratic-007/" type="text/html"/>
+		<id>https://sflightningdevs.org/socratic-007/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;hivemind.vc&quot;&gt;Hivemind Ventures&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -488,8 +488,8 @@
 		<title>Socratic Seminar 6</title>
 		<published>2024-07-15T00:00:00+00:00</published>
 		<updated>2024-07-15T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sflightningdevs.org/socratic-006/" type="text/html"/>
-		<id>https://www.sflightningdevs.org/socratic-006/</id>
+		<link rel="alternate" href="https://sflightningdevs.org/socratic-006/" type="text/html"/>
+		<id>https://sflightningdevs.org/socratic-006/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;hivemind.vc&quot;&gt;Hivemind Ventures&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -552,8 +552,8 @@
 		<title>Socratic Seminar 5</title>
 		<published>2024-06-17T00:00:00+00:00</published>
 		<updated>2024-06-17T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sflightningdevs.org/socratic-005/" type="text/html"/>
-		<id>https://www.sflightningdevs.org/socratic-005/</id>
+		<link rel="alternate" href="https://sflightningdevs.org/socratic-005/" type="text/html"/>
+		<id>https://sflightningdevs.org/socratic-005/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;hivemind.vc&quot;&gt;Hivemind Ventures&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -646,8 +646,8 @@
 		<title>Socratic Seminar 4</title>
 		<published>2024-05-14T00:00:00+00:00</published>
 		<updated>2024-05-14T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sflightningdevs.org/socratic-004/" type="text/html"/>
-		<id>https://www.sflightningdevs.org/socratic-004/</id>
+		<link rel="alternate" href="https://sflightningdevs.org/socratic-004/" type="text/html"/>
+		<id>https://sflightningdevs.org/socratic-004/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;hivemind.vc&quot;&gt;Hivemind Ventures&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;cardcoins.co&quot;&gt;CardCoins&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -725,8 +725,8 @@
 		<title>Socratic Seminar 3</title>
 		<published>2024-04-16T00:00:00+00:00</published>
 		<updated>2024-04-16T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sflightningdevs.org/socratic-003/" type="text/html"/>
-		<id>https://www.sflightningdevs.org/socratic-003/</id>
+		<link rel="alternate" href="https://sflightningdevs.org/socratic-003/" type="text/html"/>
+		<id>https://sflightningdevs.org/socratic-003/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;hivemind.vc&quot;&gt;Hivemind Ventures&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;cardcoins.co&quot;&gt;CardCoins&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -811,8 +811,8 @@
 		<title>Socratic Seminar 2</title>
 		<published>2024-01-16T00:00:00+00:00</published>
 		<updated>2024-01-16T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sflightningdevs.org/socratic-002/" type="text/html"/>
-		<id>https://www.sflightningdevs.org/socratic-002/</id>
+		<link rel="alternate" href="https://sflightningdevs.org/socratic-002/" type="text/html"/>
+		<id>https://sflightningdevs.org/socratic-002/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;hivemind.vc&quot;&gt;Hivemind Ventures&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;cardcoins.co&quot;&gt;CardCoins&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -892,8 +892,8 @@
 		<title>Socratic Seminar 1</title>
 		<published>2023-11-07T00:00:00+00:00</published>
 		<updated>2023-11-07T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sflightningdevs.org/socratic-001/" type="text/html"/>
-		<id>https://www.sflightningdevs.org/socratic-001/</id>
+		<link rel="alternate" href="https://sflightningdevs.org/socratic-001/" type="text/html"/>
+		<id>https://sflightningdevs.org/socratic-001/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;hivemind.vc&quot;&gt;Hivemind Ventures&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;cardcoins.co&quot;&gt;CardCoins&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
