@@ -25,6 +25,8 @@ News
 - [Phoenix is back in the USA](https://x.com/acinq_co/status/1909651903421554833)
 - [Asset Loop](https://docs.lightning.engineering/lightning-network-tools/taproot-assets/asset-loop)
 - [Greenlight Empowers Non-Custodial Lightning Integration Using VLS](https://vls.tech/posts/greenlight-case-study/)
+- [Cashu is coming to ZEUS](https://x.com/ZeusLN/status/1907084936856662061)
+- [Bitcoin Core v29.0 released, including Ephemeral Dust](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-29.0.md#mempool-policy-and-mining-changes)
 
 Discussion
 ----------
@@ -51,11 +53,17 @@ bLIPs & BOLTs
 -------------
 - [Check for preimage before failing back missing HTLCs](https://github.com/lightning/bolts/pull/1233)
 - [Make payment_secret mandatory and ASSUMED](https://github.com/lightning/bolts/pull/1242)
+- [Lightning Specification Meeting 2025/03/24](https://github.com/lightning/bolts/issues/1238)
+- [Lightning Specification Meeting 2025/04/07](https://github.com/lightning/bolts/issues/1244)
 
 Noteworthy PRs
 --------------
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
+- [lightningd: fix anchorspend HTLC deadline logic](https://github.com/ElementsProject/lightning/pull/8190)
+- [Fix missing p2wpkh for mutual close with old peers](https://github.com/ElementsProject/lightning/pull/8175)
+- [opening: Do not forget zeroconf channels due to funding timeout](https://github.com/ElementsProject/lightning/pull/8149)
+- [Fix blinded path peer selection](https://github.com/ElementsProject/lightning/pull/8138)
 
 ### [eclair](https://github.com/ACINQ/eclair/)
 - [Add path finding for blinded routes](https://github.com/ACINQ/eclair/pull/3027)
@@ -75,7 +83,7 @@ Noteworthy PRs
 - [Log cases where an onion failure cannot be attributed or interpreted](https://github.com/lightningdevkit/rust-lightning/pull/3629)
 - [Add BOLT12 support to bLIP-51 / LSPS1](https://github.com/lightningdevkit/rust-lightning/pull/3649)
 - [lightning-invoice: explicitly enforce a 7089 B max length on BOLT11 invoice deser](https://github.com/lightningdevkit/rust-lightning/pull/3665)
-- [Handle receiving payments via Trampoline](https://github.com/ACINQ/eclair/pull/3045)
+- [Handle receiving payments via Trampoline](https://github.com/lightningdevkit/rust-lightning/pull/3670)
 - [Attributable failures](https://github.com/lightningdevkit/rust-lightning/pull/2256)
 - [Fix long route failure attribution](https://github.com/lightningdevkit/rust-lightning/pull/3709)
 - [[RFC] Implement a way to do BOLT 12 Proof of Payment](https://github.com/lightningdevkit/rust-lightning/pull/3593)
