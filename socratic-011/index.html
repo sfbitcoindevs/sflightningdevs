@@ -63,6 +63,8 @@
 <li><a href="https://x.com/acinq_co/status/1909651903421554833">Phoenix is back in the USA</a></li>
 <li><a href="https://docs.lightning.engineering/lightning-network-tools/taproot-assets/asset-loop">Asset Loop</a></li>
 <li><a href="https://vls.tech/posts/greenlight-case-study/">Greenlight Empowers Non-Custodial Lightning Integration Using VLS</a></li>
+<li><a href="https://x.com/ZeusLN/status/1907084936856662061">Cashu is coming to ZEUS</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-29.0.md#mempool-policy-and-mining-changes">Bitcoin Core v29.0 released, including Ephemeral Dust</a></li>
 </ul>
 <h2 id="discussion">Discussion</h2>
 <h4 id="delving-bitcoin"><a href="https://delvingbitcoin.org/">Delving Bitcoin</a></h4>
@@ -89,9 +91,17 @@
 <ul>
 <li><a href="https://github.com/lightning/bolts/pull/1233">Check for preimage before failing back missing HTLCs</a></li>
 <li><a href="https://github.com/lightning/bolts/pull/1242">Make payment_secret mandatory and ASSUMED</a></li>
+<li><a href="https://github.com/lightning/bolts/issues/1238">Lightning Specification Meeting 2025/03/24</a></li>
+<li><a href="https://github.com/lightning/bolts/issues/1244">Lightning Specification Meeting 2025/04/07</a></li>
 </ul>
 <h2 id="noteworthy-prs">Noteworthy PRs</h2>
 <h3 id="core-lightning"><a href="https://github.com/ElementsProject/lightning">Core Lightning</a></h3>
+<ul>
+<li><a href="https://github.com/ElementsProject/lightning/pull/8190">lightningd: fix anchorspend HTLC deadline logic</a></li>
+<li><a href="https://github.com/ElementsProject/lightning/pull/8175">Fix missing p2wpkh for mutual close with old peers</a></li>
+<li><a href="https://github.com/ElementsProject/lightning/pull/8149">opening: Do not forget zeroconf channels due to funding timeout</a></li>
+<li><a href="https://github.com/ElementsProject/lightning/pull/8138">Fix blinded path peer selection</a></li>
+</ul>
 <h3 id="eclair"><a href="https://github.com/ACINQ/eclair/">eclair</a></h3>
 <ul>
 <li><a href="https://github.com/ACINQ/eclair/pull/3027">Add path finding for blinded routes</a></li>
@@ -112,7 +122,7 @@
 <li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3629">Log cases where an onion failure cannot be attributed or interpreted</a></li>
 <li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3649">Add BOLT12 support to bLIP-51 / LSPS1</a></li>
 <li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3665">lightning-invoice: explicitly enforce a 7089 B max length on BOLT11 invoice deser</a></li>
-<li><a href="https://github.com/ACINQ/eclair/pull/3045">Handle receiving payments via Trampoline</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3670">Handle receiving payments via Trampoline</a></li>
 <li><a href="https://github.com/lightningdevkit/rust-lightning/pull/2256">Attributable failures</a></li>
 <li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3709">Fix long route failure attribution</a></li>
 <li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3593">[RFC] Implement a way to do BOLT 12 Proof of Payment</a></li>
