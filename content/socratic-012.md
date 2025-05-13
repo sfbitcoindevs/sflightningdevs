@@ -15,21 +15,25 @@ Housekeeping
 
 News
 ----
+N/A
 
 Discussion
 ----------
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 - [Mitigating Channel Depletion in the Lightning Network: A Survey of Potential Solutions](https://delvingbitcoin.org/t/mitigating-channel-depletion-in-the-lightning-network-a-survey-of-potential-solutions/1640)
 
-
 #### [Bitcoin Optech Podcast](https://bitcoinops.org/en/podcast/)
 - N/A
 
 #### Miscellaneous
-- N/A
+- [Sovereign Tools: A comprehensive Bitcoin and Lightning Network wallet comparison tool](https://sovereigntools.com)
+- [Misty Breez: A hybrid Lightning and Liquid network wallet built with the Nodeless Breez SDK](https://github.com/breez/misty-breez?tab=readme-ov-file)
 
 Releases
 --------
+- [Core Lightning v25.02.2](https://github.com/ElementsProject/lightning/blob/v25.02.2/CHANGELOG.md)
+- [LND v0.19.0-beta.rc4](https://github.com/lightningnetwork/lnd/blob/master/docs/release-notes/release-notes-0.19.0.md)
+- [LNDg v1.10.0](https://github.com/cryptosharks131/lndg/releases/tag/v1.10.0)
 
 bLIPs & BOLTs
 -------------
@@ -43,16 +47,22 @@ Noteworthy PRs
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [Add LSPS0 Client and Service Plugin](https://github.com/ElementsProject/lightning/pull/8227)
 - [Handle closed channels better](https://github.com/ElementsProject/lightning/pull/8162)
+- [lightningd: add short_channel_id option to listpeerchannels.](https://github.com/ElementsProject/lightning/pull/8237)
 
 ### [eclair](https://github.com/ACINQ/eclair/)
 - [Simplify channel keys management](https://github.com/ACINQ/eclair/pull/3064)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
+- [(2/3) Add Enum for HTLCHandlingFailed Reasons](https://github.com/lightningdevkit/rust-lightning/pull/3601)
 - [(3/3) Add Failure Reason to HTLCHandlingFailed](https://github.com/lightningdevkit/rust-lightning/pull/3700)
 - [Expand PaymentClaimable to include all inbound channel IDs for a payment](https://github.com/lightningdevkit/rust-lightning/pull/3655)
+- 
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
 - [sweep: return all inputs in PendingSweeps](https://github.com/lightningnetwork/lnd/pull/9772)
+- [multi: downgrade to legacy coop close for taproot channels](https://github.com/lightningnetwork/lnd/pull/9669)
+- [chain: add testnet4 support](https://github.com/lightningnetwork/lnd/pull/9620)
 
 Security
---------------
+--------
+- N/A
