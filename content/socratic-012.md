@@ -17,9 +17,9 @@ News
 ----
 - [Cash App Pay Integrates with Domino’s](https://finance.yahoo.com/news/cash-app-pay-integrates-domino-130000676.html)
 - [Revolut Integrates Lightspark for Lightning-Fast Bitcoin Payments in the UK and Europe](https://bitcoinmagazine.com/news/revolut-integrates-lightspark-for-lightning-fast-bitcoin-payments-in-the-uk-and-europe)
-- [15% of BTC transactions now move on Lightning rails](https://x.com/coinbase/status/1916961596775272652)
+- [Coinbase: 15% of BTC transactions now move on Lightning rails](https://x.com/coinbase/status/1916961596775272652)
 - [Amboss Liquidity Subscriptions](https://amboss.tech/blog/liquidity-subscriptions)
-- [Lightning is now 75% of contributions volume on Geyserfund](https://x.com/steliosrammos/status/1921924760801357827)
+- [Geyserfund: Lightning is now 75% of contributions volume](https://x.com/steliosrammos/status/1921924760801357827)
 - [Paying for Groceries with Bitcoin: SPAR, DFX, LNbits](https://news.lnbits.com/news/paying-for-groceries-with-bitcoin-inside-spars-lig)
 - [57% of ticket sales for Adopting Bitcoin on Lightning](https://x.com/AdoptingBTC/status/1917380502547296389)
 - [37% of Bitcoin transactions at CoinCorner on Lightning](https://x.com/CoinCorner/status/1917309714922098812)
@@ -30,7 +30,7 @@ Discussion
 ----------
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 - [Mitigating Channel Depletion in the Lightning Network: A Survey of Potential Solutions](https://delvingbitcoin.org/t/mitigating-channel-depletion-in-the-lightning-network-a-survey-of-potential-solutions/1640)
-- [Path Queries: Addressing Payment Reliability and Routi](https://delvingbitcoin.org/t/path-queries-addressing-payment-reliability-and-routing-limitations/1672)
+- [Path Queries: Addressing Payment Reliability and Routing limitations](https://delvingbitcoin.org/t/path-queries-addressing-payment-reliability-and-routing-limitations/1672)
 
 #### [Bitcoin Optech Podcast](https://bitcoinops.org/en/podcast/)
 - N/A
