@@ -4,8 +4,109 @@
 	<link href="https://sflightningdevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://sflightningdevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2025-04-24T00:00:00+00:00</updated>
+	<updated>2025-05-15T00:00:00+00:00</updated>
 	<id>https://sflightningdevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 12</title>
+		<published>2025-05-15T00:00:00+00:00</published>
+		<updated>2025-05-15T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sflightningdevs.org/socratic-012/" type="text/html"/>
+		<id>https://sflightningdevs.org/socratic-012/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;spiral.xyz&#x2F;&quot;&gt;Spiral&lt;&#x2F;a&gt;!&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers April 25th to May 15th.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;finance.yahoo.com&#x2F;news&#x2F;cash-app-pay-integrates-domino-130000676.html&quot;&gt;Cash App Pay Integrates with Domino’s&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;news&#x2F;revolut-integrates-lightspark-for-lightning-fast-bitcoin-payments-in-the-uk-and-europe&quot;&gt;Revolut Integrates Lightspark for Lightning-Fast Bitcoin Payments in the UK and Europe&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;coinbase&#x2F;status&#x2F;1916961596775272652&quot;&gt;15% of BTC transactions now move on Lightning rails&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;amboss.tech&#x2F;blog&#x2F;liquidity-subscriptions&quot;&gt;Amboss Liquidity Subscriptions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;steliosrammos&#x2F;status&#x2F;1921924760801357827&quot;&gt;Lightning is now 75% of contributions volume on Geyserfund&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;news.lnbits.com&#x2F;news&#x2F;paying-for-groceries-with-bitcoin-inside-spars-lig&quot;&gt;Paying for Groceries with Bitcoin: SPAR, DFX, LNbits&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;AdoptingBTC&#x2F;status&#x2F;1917380502547296389&quot;&gt;57% of ticket sales for Adopting Bitcoin on Lightning&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;CoinCorner&#x2F;status&#x2F;1917309714922098812&quot;&gt;37% of Bitcoin transactions at CoinCorner on Lightning&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.arklabs.xyz&#x2F;taproot-assets-in-ark&#x2F;&quot;&gt;Exploring Taproot Assets in Ark&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BitGo&#x2F;status&#x2F;1917285256367071321&quot;&gt;BitGo Integrates Bitcoin Lightning Network&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;mitigating-channel-depletion-in-the-lightning-network-a-survey-of-potential-solutions&#x2F;1640&quot;&gt;Mitigating Channel Depletion in the Lightning Network: A Survey of Potential Solutions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;path-queries-addressing-payment-reliability-and-routing-limitations&#x2F;1672&quot;&gt;Path Queries: Addressing Payment Reliability and Routi&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bitcoin-optech-podcast&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;podcast&#x2F;&quot;&gt;Bitcoin Optech Podcast&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;N&#x2F;A&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;miscellaneous&quot;&gt;Miscellaneous&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;sovereigntools.com&quot;&gt;Sovereign Tools: A comprehensive Bitcoin and Lightning Network wallet comparison tool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;breez&#x2F;misty-breez?tab=readme-ov-file&quot;&gt;Misty Breez: A hybrid Lightning and Liquid network wallet built with the Nodeless Breez SDK&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stacker.news&#x2F;items&#x2F;972730&quot;&gt;Ultimate guide to LN routing and fee management.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;echennells&#x2F;taproot_assets&quot;&gt;Taproot Assets Extension for lnbits&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;blob&#x2F;v25.02.2&#x2F;CHANGELOG.md&quot;&gt;Core Lightning v25.02.2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;blob&#x2F;master&#x2F;docs&#x2F;release-notes&#x2F;release-notes-0.19.0.md&quot;&gt;LND v0.19.0-beta.rc4&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;cryptosharks131&#x2F;lndg&#x2F;releases&#x2F;tag&#x2F;v1.10.0&quot;&gt;LNDg v1.10.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ZeusLN&#x2F;zeus&#x2F;releases&#x2F;tag&#x2F;v0.11.0-alpha4&quot;&gt;Zeus v0.11.0-alpha4&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;phoenix&#x2F;releases&#x2F;tag&#x2F;android-v2.6.0&quot;&gt;Phoenix v2.6.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;blips-bolts&quot;&gt;bLIPs &amp;amp; BOLTs&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;pull&#x2F;1245&quot;&gt;Require minimally-encoded features in BOLT 11 invoices&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;issues&#x2F;1255&quot;&gt;Lightning Specification Meeting 2025&#x2F;05&#x2F;05&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1555&quot;&gt;BIP 321: URI Scheme (Replace BIP 21 with a new BIP containing information about more modern usage of it)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;issues&#x2F;1253&quot;&gt;Does option_simple_close depend on CPFP carve out ?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;noteworthy-prs&quot;&gt;Noteworthy PRs&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;core-lightning&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&quot;&gt;Core Lightning&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;8227&quot;&gt;Add LSPS0 Client and Service Plugin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;8162&quot;&gt;Handle closed channels better&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;8237&quot;&gt;lightningd: add short_channel_id option to listpeerchannels.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;8021&quot;&gt;Splice: Interop Final (probably) with Eclair&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;8268&quot;&gt;bcli: don&#x27;t try asking non-full nodes for blocks.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;8213&quot;&gt;Workaround for LND to cause a force-close on our channel&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;8015&quot;&gt;Sendonion: add total amount&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;8226&quot;&gt;Signmessage&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;eclair&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;&quot;&gt;eclair&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;3064&quot;&gt;Simplify channel keys management&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;3074&quot;&gt;Rework the TransactionWithInputInfo architecture&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;3082&quot;&gt;Increase default revocation timeout&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;ldk&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&quot;&gt;LDK&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;3601&quot;&gt;(2&#x2F;3) Add Enum for HTLCHandlingFailed Reasons&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;3700&quot;&gt;(3&#x2F;3) Add Failure Reason to HTLCHandlingFailed&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;3655&quot;&gt;Expand PaymentClaimable to include all inbound channel IDs for a payment&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;3729&quot;&gt;Log which hop in a path was the most limiting in capacity&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;3772&quot;&gt;Do not fail to load ChannelManager when we see claiming payments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;3734&quot;&gt;Sweeper async change destination source fetching&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;3737&quot;&gt;Disallow dual-sync-async persistence without restarting&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;lnd&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&quot;&gt;lnd&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;9772&quot;&gt;sweep: return all inputs in PendingSweeps&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;9669&quot;&gt;multi: downgrade to legacy coop close for taproot channels&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;9620&quot;&gt;chain: add testnet4 support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;8330&quot;&gt;bimodal pathfinding probability improvements&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;security&quot;&gt;Security&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;N&#x2F;A&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 11</title>
 		<published>2025-04-24T00:00:00+00:00</published>
