@@ -15,7 +15,6 @@ Housekeeping
 
 News
 ----
-- [Cash App Pay Integrates with Domino’s](https://finance.yahoo.com/news/cash-app-pay-integrates-domino-130000676.html)
 - [Revolut Integrates Lightspark for Lightning-Fast Bitcoin Payments in the UK and Europe](https://bitcoinmagazine.com/news/revolut-integrates-lightspark-for-lightning-fast-bitcoin-payments-in-the-uk-and-europe)
 - [Coinbase: 15% of BTC transactions now move on Lightning rails](https://x.com/coinbase/status/1916961596775272652)
 - [Amboss Liquidity Subscriptions](https://amboss.tech/blog/liquidity-subscriptions)
