@@ -21,6 +21,11 @@
 &lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
 &lt;li&gt;The reading list covers April 25th to May 15th.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;demos&quot;&gt;Demos&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;primal.net&#x2F;e&#x2F;nevent1qqsgka556y0sc54wxjlzyqgrd6c5g8qyqjskk3x24cn5e0np0y529scl7m27u&quot;&gt;D++ Mario Kart: Double Sats game&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;pbhackathon.com&#x2F;vote&quot;&gt;D++ Lightning voting interface&lt;&#x2F;a&gt; for the &lt;a href=&quot;https:&#x2F;&#x2F;pbhackathon.com&quot;&gt;Presidio Bitcoin Hackathon&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;news&#x2F;revolut-integrates-lightspark-for-lightning-fast-bitcoin-payments-in-the-uk-and-europe&quot;&gt;Revolut Integrates Lightspark for Lightning-Fast Bitcoin Payments in the UK and Europe&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -45,6 +50,7 @@
 &lt;&#x2F;ul&gt;
 &lt;h4 id=&quot;miscellaneous&quot;&gt;Miscellaneous&lt;&#x2F;h4&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;primal.net&#x2F;e&#x2F;nevent1qqswaa5vpsyp29258n6radga5ey0q88apnyaa9uqst7fvzcuqjzeynq39k6tc&quot;&gt;Murch&#x27;s Take On OP_RETURN vs. Knots&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;sovereigntools.com&quot;&gt;Sovereign Tools: A comprehensive Bitcoin and Lightning Network wallet comparison tool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;breez&#x2F;misty-breez?tab=readme-ov-file&quot;&gt;Misty Breez: A hybrid Lightning and Liquid network wallet built with the Nodeless Breez SDK&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stacker.news&#x2F;items&#x2F;972730&quot;&gt;Ultimate guide to LN routing and fee management.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
