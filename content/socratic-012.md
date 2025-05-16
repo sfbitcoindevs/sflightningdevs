@@ -13,6 +13,11 @@ Housekeeping
 - Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.
 - The reading list covers April 25th to May 15th.
 
+Demos
+----
+- [D++ Mario Kart: Double Sats game](https://primal.net/e/nevent1qqsgka556y0sc54wxjlzyqgrd6c5g8qyqjskk3x24cn5e0np0y529scl7m27u)
+- [D++ Lightning voting interface](https://pbhackathon.com/vote) for the [Presidio Bitcoin Hackathon](https://pbhackathon.com)
+
 News
 ----
 - [Revolut Integrates Lightspark for Lightning-Fast Bitcoin Payments in the UK and Europe](https://bitcoinmagazine.com/news/revolut-integrates-lightspark-for-lightning-fast-bitcoin-payments-in-the-uk-and-europe)
@@ -35,6 +40,7 @@ Discussion
 - N/A
 
 #### Miscellaneous
+- [Murch's Take On OP_RETURN vs. Knots](https://primal.net/e/nevent1qqswaa5vpsyp29258n6radga5ey0q88apnyaa9uqst7fvzcuqjzeynq39k6tc)
 - [Sovereign Tools: A comprehensive Bitcoin and Lightning Network wallet comparison tool](https://sovereigntools.com)
 - [Misty Breez: A hybrid Lightning and Liquid network wallet built with the Nodeless Breez SDK](https://github.com/breez/misty-breez?tab=readme-ov-file)
 - [Ultimate guide to LN routing and fee management.](https://stacker.news/items/972730)
