@@ -18,6 +18,7 @@ News
 - [Block’s bitcoin checkout goes live in Vegas, a significant step in making it ‘everyday money’](https://www.cnbc.com/2025/05/27/block-bitcoin-checkout-vegas.html)
 - [Block to roll out bitcoin payments on Square](https://block.xyz/inside/block-to-roll-out-bitcoin-payments-on-square)
 - [Square Flies the Flag for the Lightning Network With 9.7% Yield on Bitcoin Holdings](https://www.coindesk.com/tech/2025/05/29/square-flies-the-flag-for-the-lightning-network-with-97-yield-on-bitcoin-holdings)
+- [LNBig routing income data](https://njump.me/nevent1qqsfjq45qu5d8tzjhz2kqtzsw49dn8tucyva2jat8trpxnlh4muqzjspzemhxue69uhhyetvv9ujumn0wd68ytnzv9hxgqgdwaehxw309ahx7uewd3hkcq3qngumlqmus6xkrmvvee4yc7swh9h4uk7vpq4ddt7a2jtvkc22y0asytq3hw)
 - [Block Announces Bitcoin Business Stack, Makes Historic Lightning Payments Push at Bitcoin 2025](https://bitcoinmagazine.com/news/block-announces-bitcoin-business-stack-makes-historic-lightning-payments-push-at-bitcoin-2025)
 - [Amboss Launches Rails, a Self-Custodial Bitcoin Yield Service](https://bitcoinmagazine.com/news/amboss-launches-rails-a-self-custodial-bitcoin-yield-service)
 - [Steak ‘n Shake Now Accepting Bitcoin via Lightning Network Across U.S. Locations](https://bitcoinmagazine.com/news/steak-n-shake-now-accepting-bitcoin-via-lightning-network-across-u-s-locations)
@@ -29,6 +30,7 @@ News
 - [Save Our Wallets Launch](https://saveourwallets.org)
 - [BRCA Included in market structure bill, the Clarity Act](https://x.com/TheBlueMatt/status/1931875497388245195)
 - [Bitcoin Development Fund 5 year Report](https://hrf.org/latest/bitcoin-development-fund-5-year-report/)
+- [Lightning Wallet Market Share in Japan](https://x.com/DiamondHandsLN/status/1922642890271916443)
 
 Discussion
 ----------
