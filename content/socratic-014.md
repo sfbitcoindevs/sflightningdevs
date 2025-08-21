@@ -34,6 +34,8 @@ Discussion
 bLIPs & BOLTs
 -------------
 - [Add bLIP 55: Webhook Registration (LSPS5)](https://github.com/lightning/blips/pull/55)
+- [Lightning Specification Meeting 2025/07/28](https://github.com/lightning/bolts/issues/1275)
+- [Lightning Specification Meeting 2025/08/11](https://github.com/lightning/bolts/issues/1277)
 
 Noteworthy PRs
 --------------
