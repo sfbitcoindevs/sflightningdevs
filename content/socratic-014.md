@@ -15,6 +15,8 @@ Housekeeping
 
 News
 ----
+- [Programming Lightning Workshop: Intro to Payment Channels](https://x.com/_austin_f/status/1950623228805927259)
+- [Force Closures in LND](https://amboss.space/node/0391aeb8d6d54df19b56c3eec85ea5ab8aa04e6d5865af1b34fd26106ca75bf081?section=Closed+Channels)
 - [US House Passes Bitcoin, Crypto Market Structure Bill The CLARITY Act](https://bitcoinmagazine.com/news/us-house-passes-bitcoin-crypto-market-structure-bill-the-clarity-act)
 - [Tornado Cash Trial Concludes: Roman Storm Found Guilty on One of Three Counts](https://bitcoinmagazine.com/news/tornado-cash-trial-concludes-roman-storm-found-guilty-of-one-of-three-counts)
 - [Samourai Wallet Developers Plead Guilty to Conspiring to Operate an Unlicensed Money Transmitting Business](https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty)
