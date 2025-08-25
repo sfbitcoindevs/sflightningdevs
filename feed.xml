@@ -42,6 +42,8 @@
 &lt;h2 id=&quot;blips-bolts&quot;&gt;bLIPs &amp;amp; BOLTs&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;blips&#x2F;pull&#x2F;55&quot;&gt;Add bLIP 55: Webhook Registration (LSPS5)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;issues&#x2F;1275&quot;&gt;Lightning Specification Meeting 2025&#x2F;07&#x2F;28&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;issues&#x2F;1277&quot;&gt;Lightning Specification Meeting 2025&#x2F;08&#x2F;11&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;noteworthy-prs&quot;&gt;Noteworthy PRs&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;core-lightning&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&quot;&gt;Core Lightning&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
