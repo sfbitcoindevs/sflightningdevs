@@ -9,16 +9,27 @@ Housekeeping
 - This meetup is generously sponsored by [Spiral](https://spiral.xyz/)!
 - Questions are encouraged, including basic ones!
 - Socratic Seminars are held under the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): share the information you receive, but do not reveal the identity of who said it.
+- Welcome Bitcoin Design Week Attendees
 - For the privacy of other attendees, please refrain from taking photographs of other people without their permission.
 - Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.
 - The reading list covers August 22nd to September 18th.
 
+Presentation
+----
+Steve Lee - Spark (Preview of Steve's presentation at lightning++ in Berlin)
+
 News
 ----
+- [SoFi Taps Bitcoin Lightning Network for Global Remittances With Lightspark](https://www.coindesk.com/business/2025/08/19/sofi-taps-bitcoin-lightning-network-for-global-remittances-with-lightspark)
+- [LQWD's Lightning Network Strategy Shows Strong Initial Bitcoin Yield; Results Highlight Potential Yield at Scale on LQWD's BTC Treasury](https://lqwdtech.com/2025/lqwds-lightning-network-strategy-shows-strong-initial-bitcoin-yield-results-highlight-potential-yield-at-scale-on-lqwds-btc-treasury/)
+- [Chipper Cash Now Processes Over 50% of Bitcoin Transactions Through Lightning — Powered by Voltage](https://www.voltage.cloud/blog/chipper-cash-now-processes-over-50-of-bitcoin-transactions-through-lightning-powered-by-voltage)
 
 Discussion
 ----------
-#### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [State of Lightning Privacy - Spiral's Elias Rohrer @ bitcoin++ privacy edition](https://www.youtube.com/watch?v=mvuWLob3CFU&t=817s)
+- [MultiChannel and MultiPTLC: Towards A Global High-Availability CP Database For Bitcoin Payments](https://delvingbitcoin.org/t/multichannel-and-multiptlc-towards-a-global-high-availability-cp-database-for-bitcoin-payments/1983/1)
+- [Lightning Is Misunderstood](https://bitcoinmagazine.com/print/lightning-is-misunderstood)
+- [Lightning swaps *are* the connective tissue](https://insider.btcpp.dev/p/lightning-swaps-are-the-connective)
 
 Released
 --------
