@@ -16,7 +16,7 @@ Housekeeping
 
 Presentation
 ----
-Steve Lee - Spark (Preview of Steve's presentation at lightning++ in Berlin)
+Steve Lee - Preview of Steve's presentation for lightning++ in Berlin
 
 News
 ----
@@ -25,6 +25,7 @@ News
 - [Chipper Cash Now Processes Over 50% of Bitcoin Transactions Through Lightning — Powered by Voltage](https://www.voltage.cloud/blog/chipper-cash-now-processes-over-50-of-bitcoin-transactions-through-lightning-powered-by-voltage)
 - [ZBD’s SDK Powers Bitcoin Earnings in Mobile Games, Driving 124% Revenue Growth](https://bitcoinmagazine.com/business/zbds-sdk-powers-bitcoin-earnings-in-mobile-games-driving-124-revenue-growth)
 - [RocoMamas adopts Bitcoin Lightning payments at over 100 locations in South Africa](https://cryptobriefing.com/rocomamas-adopts-bitcoin-lightning-payments-south-africa/)
+- [Relai sunsets Lightning](https://x.com/julian_liniger/status/1960225937213063584)
 
 Discussion
 ----------
