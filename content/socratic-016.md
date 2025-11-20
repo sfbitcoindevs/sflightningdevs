@@ -19,7 +19,6 @@ Privacy Tech That Accepts Lightning
 - [Kagi Search](https://kagi.com/)
 - [Maple AI](https://trymaple.ai/)
 - [Silent.link](https://silent.link/)
-- Others?
 
 News
 ----
@@ -53,7 +52,6 @@ Noteworthy PRs
 --------------
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [Fixing onion message support requirement for the first_node_id of bolt12 invoices](https://github.com/ElementsProject/lightning/pull/8682)
-- [xpay phoenix detect](https://github.com/ElementsProject/lightning/pull/8537)
 - [xpay phoenix detect](https://github.com/ElementsProject/lightning/pull/8537)
 - [askrene: handle maxparts better.](https://github.com/ElementsProject/lightning/pull/8688)
 - [Splice Spec Cleanup: Reestablish changes](https://github.com/ElementsProject/lightning/pull/8646)
@@ -96,10 +94,10 @@ Noteworthy PRs
 ### [lnd](https://github.com/lightningnetwork/lnd)
 - [multi: add upfront-shutdown-address to lnd.conf.](https://github.com/lightningnetwork/lnd/pull/9432)
 - [[Part 2|*] Implement First Part for SQL Backend functions](https://github.com/lightningnetwork/lnd/pull/10287)
+- [[Part 3|*] Implement Second Part for SQL Backend functions](https://github.com/lightningnetwork/lnd/pull/10291)
 - [graph/db: freeze the SQL migration code](https://github.com/lightningnetwork/lnd/pull/10338)
 - [Don't fail on invalid extra tlv data when decoding a payment](https://github.com/lightningnetwork/lnd/pull/10334)
 - [lnwire: add missing Gossip 1.75 fields and message](https://github.com/lightningnetwork/lnd/pull/10232)
 - [Basic structures for onion messages into LND](https://github.com/lightningnetwork/lnd/pull/9868)
 - [rpcserver: resolve root cause of premature wallet rescanning](https://github.com/lightningnetwork/lnd/pull/10280)
-- [[Part 3|*] Implement Second Part for SQL Backend functions](https://github.com/lightningnetwork/lnd/pull/10291)
 - [discovery: fix potential infinite loop bug re context cancel error handling in gossip syncer](https://github.com/lightningnetwork/lnd/pull/10330)
