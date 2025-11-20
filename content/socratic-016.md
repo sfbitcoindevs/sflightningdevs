@@ -10,7 +10,7 @@ Housekeeping
 - Socratic Seminars are held under the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): share the information you receive, but do not reveal the identity of who said it.
 - For the privacy of other attendees, please refrain from taking photographs of other people without their permission.
 - Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.
-- The reading list covers September 18th to November 19th.
+- The reading list covers October 16th to November 20th.
 
 Privacy Tech That Accepts Lightning
 ----
@@ -36,7 +36,7 @@ Delving Bitcoin
 
 Releases
 --------
-- [CLN v25.09.1 Hot Wallet Guardian II](https://github.com/ElementsProject/lightning/releases/tag/v25.09.1)
+- [CLN v25.09.1 Hot Wallet Guardian](https://github.com/ElementsProject/lightning/releases/tag/v25.09.1)
 - [CLN v25.09.2 Hot Wallet Guardian](https://github.com/ElementsProject/lightning/releases/tag/v25.09.2)
 - [Eclair v0.13.1](https://github.com/ACINQ/eclair/releases/tag/v0.13.1)
 - [lnd v0.20.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.20.0-beta)
