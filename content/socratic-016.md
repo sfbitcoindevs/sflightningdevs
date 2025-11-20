@@ -40,7 +40,7 @@ Releases
 - [CLN v25.09.2 Hot Wallet Guardian](https://github.com/ElementsProject/lightning/releases/tag/v25.09.2)
 - [Eclair v0.13.1](https://github.com/ACINQ/eclair/releases/tag/v0.13.1)
 - [lnd v0.20.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.20.0-beta)
-- [LDK 0.2 RC2 Natively Asynchronous Splicing"](https://github.com/lightningdevkit/rust-lightning/blob/v0.2.0-rc2/CHANGELOG.md)
+- [LDK 0.2 RC2 Natively Asynchronous Splicing](https://github.com/lightningdevkit/rust-lightning/blob/v0.2.0-rc2/CHANGELOG.md)
 
 bLIPs & BOLTs
 -------------
