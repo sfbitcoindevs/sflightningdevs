@@ -1,5 +1,5 @@
 +++
-title = "Socratic Seminar 21"
+title = "Socratic Seminar 18"
 date = 2026-02-19
 +++
 
