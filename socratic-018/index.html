@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      SF Lightning Devs | Socratic Seminar 18
+    </title>
+    <meta name="description" content="Website for the San Francisco Lightning Developer Meetup.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="SF Lightning Devs">
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
+    <link href="/index.css" rel="stylesheet" type="text/css">
+    
+    <style>
+      header {
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 1.75rem; /* Adjust the font size as needed */
+      }
+
+      nav a {
+        display: inline-block; /* Allow links to wrap to the next line as a whole */
+        margin-right: 10px; /* Add some spacing between links */
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">SF Lightning Devs</a></h1>
+      <nav>
+        <a href="https://www.meetup.com/SF-Lightning-Devs/" target="_blank">Meetup</a>
+        <a href="https://twitter.com/SFLightningDevs" target="_blank">Twitter</a>
+        <a href="https://github.com/sfbitcoindevs/sflightningdevs" target="_blank">GitHub</a>
+        <a href="/feed.xml">RSS</a>
+        <a href="https://sfbitcoindevs.org" target="_blank">BitDevs</a>
+      </nav>
+    </header>
+    <hr>
+    <article>
+      
+<h1>Socratic Seminar 18</h1>
+<p><strong>2026-02-19</strong></p>
+<h2 id="housekeeping">Housekeeping</h2>
+<ul>
+<li>This meetup is generously sponsored by Presidio Bitcoin!</li>
+<li>Questions are encouraged, including basic ones!</li>
+<li>Socratic Seminars are held under the <a rel="external" href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a>: share the information you receive, but do not reveal the identity of who said it.</li>
+<li>For the privacy of other attendees, please refrain from taking photographs of other people without their permission.</li>
+<li>Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.</li>
+<li>The reading list covers January 15th, 2026 to February 18th, 2026.</li>
+</ul>
+<h2 id="news">News</h2>
+<ul>
+<li><a rel="external" href="https://www.prnewswire.com/news-releases/amboss-unveils-railsx-the-first-lightning-native-dex-for-p2p-bitcoin-and-stablecoin-trading-302669827.html">Amboss Unveils RailsX: The First Lightning-Native DEX for P2P Bitcoin and Stablecoin Trading</a></li>
+<li><a rel="external" href="https://www.prnewswire.com/news-releases/sdm-completes-1-million-lightning-transaction-in-pilot-to-kraken-powered-by-voltage-302679837.html">SDM Completes $1 Million Lightning Transaction in Pilot to Kraken, Powered by Voltage</a></li>
+<li><a rel="external" href="https://www.theblock.co/post/389584/lightning-labs-releases-ai-agent-tools-for-native-bitcoin-lightning-payments">Lightning Labs Releases AI Agent Tools for Native Bitcoin Lightning Payments</a></li>
+<li><a rel="external" href="https://x.com/Jestopher_BTC/status/2091247476095984031">Magma Liquidity Market Volume on Track to Double Month-over-Month</a></li>
+<li><a rel="external" href="https://x.com/tonyioi/status/2089598480306901363">Amboss Rails Cluster Providing Over $1M/Month in Liquidity to Lightning Network</a></li>
+<li><a rel="external" href="https://x.com/SDWouters/status/2024507942708351443">Bitcoin's Lightning Network Exceeds $1 Billion in Monthly Volume</a></li>
+<li><a rel="external" href="https://x.com/voltage_cloud/status/2024493145451614683">Voltage Launches Voltage Credit: Programmatic Revolving Line of Credit on Bitcoin Payment Rails</a></li>
+<li><a rel="external" href="https://programminglightning.com/noise-tutorial">Lightning's Noise Protocol: An Approachable Deep Dive</a></li>
+</ul>
+<h2 id="releases">Releases</h2>
+<ul>
+<li><a rel="external" href="https://github.com/ElementsProject/lightning/releases/tag/v25.12.1">Core Lightning v25.12.1</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/releases/tag/v0.20.1-beta">LND v0.20.1-beta</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.1.9">LDK v0.1.9</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.2.1">LDK v0.2.1</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.2.2">LDK v0.2.2</a></li>
+</ul>
+<h2 id="blips-bolts">bLIPs &amp; BOLTs</h2>
+<ul>
+<li><a rel="external" href="https://github.com/lightning/bolts/issues/1315">Lightning Specification Meeting 2026/02/09</a></li>
+<li><a rel="external" href="https://github.com/lightning/bolts/pull/1236">Allow either node to send tx_init_rbf in v2 establishment</a></li>
+<li><a rel="external" href="https://github.com/lightning/bolts/pull/1289">Explicit commit_sig retransmission for interactive-tx</a></li>
+<li><a rel="external" href="https://github.com/lightning/bolts/pull/1306">BOLT 12: clarify that empty offer_chains must be rejected</a></li>
+</ul>
+<h2 id="noteworthy-prs">Noteworthy PRs</h2>
+<h3 id="core-lightning"><a rel="external" href="https://github.com/ElementsProject/lightning">Core Lightning</a></h3>
+<ul>
+<li><a rel="external" href="https://github.com/ElementsProject/lightning/pull/8760">Askrene: scale with many layers</a></li>
+<li><a rel="external" href="https://github.com/ElementsProject/lightning/pull/8772">No more legacy onion support</a></li>
+<li><a rel="external" href="https://github.com/ElementsProject/lightning/pull/8821">common: tighten restrictions on periods, as per latest draft</a></li>
+<li><a rel="external" href="https://github.com/ElementsProject/lightning/pull/8824">askrene: add auto.include_fees layer</a></li>
+<li><a rel="external" href="https://github.com/ElementsProject/lightning/pull/8866">askrene: fixed a timeout corner case</a></li>
+<li><a rel="external" href="https://github.com/ElementsProject/lightning/pull/8868">More flake reductions</a></li>
+<li><a rel="external" href="https://github.com/ElementsProject/lightning/pull/8869">Gossmap: compaction support</a></li>
+<li><a rel="external" href="https://github.com/ElementsProject/lightning/pull/8723">Askrene parallel solving support</a></li>
+<li><a rel="external" href="https://github.com/ElementsProject/lightning/pull/8820">bcli: Refactor bcli plugin to synchronous execution</a></li>
+<li><a rel="external" href="https://github.com/ElementsProject/lightning/pull/8889">Fix peer connect crash</a></li>
+<li><a rel="external" href="https://github.com/ElementsProject/lightning/pull/8893">Make all peer messages constant message size</a></li>
+<li><a rel="external" href="https://github.com/ElementsProject/lightning/pull/8903">Gossmap compaction</a></li>
+</ul>
+<h3 id="eclair"><a rel="external" href="https://github.com/ACINQ/eclair">eclair</a></h3>
+<ul>
+<li><a rel="external" href="https://github.com/ACINQ/eclair/pull/3241">Add duration information to payment events</a></li>
+<li><a rel="external" href="https://github.com/ACINQ/eclair/pull/3243">Include the node_id of channel peers in payment events</a></li>
+<li><a rel="external" href="https://github.com/ACINQ/eclair/pull/3244">Add event for failed payment relay</a></li>
+<li><a rel="external" href="https://github.com/ACINQ/eclair/pull/3246">Improve channel and payment events</a></li>
+<li><a rel="external" href="https://github.com/ACINQ/eclair/pull/3248">Prioritize private channels when relaying payments</a></li>
+</ul>
+<h3 id="ldk"><a rel="external" href="https://github.com/lightningdevkit/rust-lightning">LDK</a></h3>
+<ul>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4152">Introduce Dummy Hop support for Blinded Payment Path</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4257">Rework ChannelManager::funding_transaction_signed</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4261">Mixed mode splicing</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4263">Add custom TLV in Bolt11 Payer API</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4290">Split splice initiation into two phases</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4300">Support generic HTLC interception</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4303">Prevent HTLC double-forwards, prune forwarded onions</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4305">net-tokio: add fn socks5_connect_outbound</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4318">Drop ChannelHandshakeLimits::max_funding_satoshis</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4320">Free holding cells immediately rather than in message sending</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4335">Add support for "phantom" BOLT 12 offers, up to the invoice_request step</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4336">Rework ChannelManager::funding_transaction_signed</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4338">Support HTLC interception by source channel</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4340">Set dont_forward on private channel updates and add tests</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4348">Fix race condition in async UtxoFuture resolution</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4349">BOLT 12: Validate bech32 padding per BIP-173</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4352">Add basic <code>CLAUDE.md</code> file</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4353">Refactor <code>BroadcasterInterface</code> to include <code>TransactionType</code></a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4354">Default to anchors and remove automatic channel acceptance</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4355">Support async signing of interactive-tx initial commitment signatures</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4377">Hold in-flight monitor updates until background event processing</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4387">Switch <code>SplicePrototype</code> feature flag to the prod feature bit</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4411">Drive splices to completion in chanmon_consistency</a></li>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4415">Free holding cell in remaining quiescence-exit code paths</a></li>
+</ul>
+<h3 id="lnd"><a rel="external" href="https://github.com/lightningnetwork/lnd">lnd</a></h3>
+<ul>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/9820">actor: add new package for structured concurrency based on the Actor model</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10142">actor: add new abstraction over mailbox</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10331">multi: update close logic to handle re-orgs of depth n-1, where n is num confs</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10380">graph/db: continue graph store for V2 data</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10414">graph/db: merge g175 types-prep side branch</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10472">switchrpc: improve TrackOnion error handling</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10473">switchrpc: add idempotent external HTLC dispatch via SendOnion</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10507">rpcserver: add wallet_synced to GetInfoResponse</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10520">routerrpc: FailureDetail enums for invoice/AMP validation failures</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10525">build: add cc integration</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10526">build: add PR severity classification workflow</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10529">graphdb: fix backwards-compat for channel edge feature deserialization</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10536">lncli unlock: wait until daemon can unlock</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10540">discovery: fix gossiper shutdown deadlock</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10542">graph/db: add v2 gossip support for channel policies</a></li>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10559">.claude+.github: add issue dedupe workflow</a></li>
+</ul>
+
+
+    </article>
+    <hr>
+    <footer>
+      <span>
+      </span>
+    </footer>
+  </body>
+</html>
